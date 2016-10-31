@@ -1,0 +1,236 @@
+/*
+ * Globals
+ */
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+
+input,p,span,button{
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* Custom default button */
+.btn-default,
+.btn-default:hover,
+.btn-default:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritance from `body` */
+  background-color: #fff;
+  border: 1px solid #fff;
+
+}
+
+
+/*
+ * Base structure
+ */
+
+html,
+body {
+  height: 100%;
+  background-color: #333;
+}
+body {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+/* Extra markup and styles for table-esque vertical and horizontal centering */
+.site-wrapper {
+  display: table;
+  width: 100%;
+  height: 100%; /* For at least Firefox */
+  min-height: 100%;
+  -webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+          box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+}
+.site-wrapper-inner {
+  display: table-cell;
+  vertical-align: top;
+}
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* Padding for spacing */
+.inner {
+  padding: 30px;
+}
+
+
+/*
+ * Header
+ */
+.masthead-brand {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Pacifico', cursive;
+}
+
+.masthead-nav > li {
+  display: inline-block;
+}
+.masthead-nav > li + li {
+  margin-left: 20px;
+}
+.masthead-nav > li > a {
+  padding-right: 0;
+  padding-left: 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff; /* IE8 proofing */
+  color: rgba(255,255,255,.75);
+  border-bottom: 2px solid transparent;
+}
+.masthead-nav > li > a:hover,
+.masthead-nav > li > a:focus {
+  background-color: transparent;
+  border-bottom-color: #a9a9a9;
+  border-bottom-color: rgba(255,255,255,.25);
+}
+.masthead-nav > .active > a,
+.masthead-nav > .active > a:hover,
+.masthead-nav > .active > a:focus {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
+@media (min-width: 768px) {
+  .masthead-brand {
+    float: left;
+  }
+  .masthead-nav {
+    float: right;
+  }
+}
+
+
+/*
+ * Cover
+ */
+
+.cover {
+  padding: 0 20px;
+}
+.cover .btn-lg {
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
+
+/*
+ * Footer
+ */
+
+.mastfoot {
+  color: #999; /* IE8 proofing */
+  color: rgba(255,255,255,.5);
+}
+
+
+/*
+ * Affix and center
+ */
+
+@media (min-width: 768px) {
+  /* Pull out the header and footer */
+  .masthead {
+    position: fixed;
+    top: 0;
+  }
+  .mastfoot {
+    position: fixed;
+    bottom: 0;
+  }
+  /* Start the vertical centering */
+  .site-wrapper-inner {
+    vertical-align: middle;
+  }
+  /* Handle the widths */
+  .masthead,
+  .mastfoot,
+  .cover-container {
+  	font-family: 'Pacifico', cursive;
+    width: 100%; /* Must be percentage or pixels for horizontal alignment */
+  }
+}
+
+@media (min-width: 992px) {
+  .masthead,
+  .mastfoot,
+  .cover-container {
+    width: 700px;
+  }
+}
+
+#map {
+        width: 300px;
+        height: 280px;
+        background-color: grey;
+        display: block;
+        margin: 0 auto;
+        margin-top: 40px; 
+      }
+
+.container{
+	display: block;
+    margin: 0 auto;
+    align-self: center;
+}
+
+.lightbox { 
+	display: none;
+}
+
+.fl-page h1,
+				.fl-page h3,
+				.fl-page h4 {
+					font-family: 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+					font-weight: 100;
+					letter-spacing: 1px;
+				}
+				.fl-page h1 { font-size: 110px; margin-bottom: 0.5em; }
+				.fl-page h1 i { font-style: normal; color: #ddd; }
+				.fl-page h1 span { font-size: 30px; color: #333;}
+				.fl-page h3 { text-align: right; }
+				.fl-page h3 { font-size: 15px; }
+				.fl-page h4 { font-size: 2em; }
+				.fl-page .jumbotron { margin-top: 2em; }
+				.fl-page .doc { margin: 2em 0;}
+				.fl-page .btn-download { float: right; }
+				.fl-page .btn-default { vertical-align: bottom; }
+
+				.fl-page .btn-lg span { font-size: 0.7em; }
+				.fl-page .footer { margin-top: 3em; color: #aaa; font-size: 0.9em;}
+				.fl-page .footer a { color: #999; text-decoration: none; margin-right: 0.75em;}
+				.fl-page .github { margin: 2em 0; }
+				.fl-page .github a { vertical-align: top; }
+				.fl-page .marketing a { color: #999; }
+
+				/* override default feather style... */
+				.fixwidth {
+					background: rgba(256,256,256, 0.8);
+				}
+				.fixwidth .featherlight-content {
+					width: 500px;
+					padding: 25px;
+					color: #fff;
+					background: #111;
+				}
+				.fixwidth .featherlight-close {
+					color: #fff;
+					background: #333;
+				}
+
+			}
+			@media(max-width: 768px){
+				.fl-page h1 span { display: block; }
+				.fl-page .btn-download { float: none; margin-bottom: 1em; }
+			}

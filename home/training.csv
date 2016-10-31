@@ -1,0 +1,2570 @@
+1 ,0,2498 ,2 ,Egypt,26.2540493,29.2675469,2,14 ,4,2," ""Hotel White House, Egypt"".
+"
+2 ,0,3066 ,3 ,Egypt,26.2540493,29.2675469,2,21 ,5,2," ""Hotel White House, Egypt"".
+"
+3 ,4,2778 ,2 ,Egypt,26.2540493,29.2675469,2,14 ,6,2," ""Hotel Geisum, Egypt"".
+"
+4 ,0,3195 ,3 ,Egypt,26.2540493,29.2675469,2,7 ,7,3," ""Hotel Al Mashrabia, Egypt"".
+"
+5 ,0,3158 ,2 ,Egypt,26.2540493,29.2675469,2,14 ,9,3," ""Hotel Al Mashrabia, Egypt"".
+"
+6 ,4,3318 ,2 ,Egypt,26.2540493,29.2675469,2,14 ,10,3," ""Hotel Al Mashrabia, Egypt"".
+"
+7 ,0,2458 ,2 ,Egypt,26.2540493,29.2675469,2,14 ,6,4," ""Hotel Winter Palace, Egypt"".
+"
+8 ,4,2649 ,3 ,Egypt,26.2540493,29.2675469,2,7 ,7,4," ""Hotel Winter Palace, Egypt"".
+"
+9 ,6,4638 ,2 ,Egypt,26.2540493,29.2675469,2,21 ,4,4," ""Anlage Arabia Beach, Egypt"".
+"
+10 ,6,3738 ,2 ,Egypt,26.2540493,29.2675469,2,14 ,10,4," ""Anlage Arabia Beach, Egypt"".
+"
+11 ,5,1978 ,2 ,Cairo,30.0488185,31.2436663,2,7 ,4,3," ""Hotel Victoria, Cairo"".
+"
+12 ,5,1898 ,2 ,Cairo,30.0488185,31.2436663,2,7 ,5,3," ""Hotel Victoria, Cairo"".
+"
+13 ,5,2158 ,2 ,Cairo,30.0488185,31.2436663,2,14 ,6,3," ""Hotel Victoria, Cairo"".
+"
+14 ,5,1898 ,2 ,Cairo,30.0488185,31.2436663,2,7 ,9,3," ""Hotel Victoria, Cairo"".
+"
+15 ,5,1154 ,1 ,Cairo,30.0488185,31.2436663,2,7 ,10,3," ""Hotel New Marwa Palace, Cairo"".
+"
+16 ,5,2308 ,2 ,Cairo,30.0488185,31.2436663,2,7 ,4,3," ""Hotel New Marwa Palace, Cairo"".
+"
+17 ,5,2658 ,2 ,Cairo,30.0488185,31.2436663,2,7 ,5,3," ""Hotel New Marwa Palace, Cairo"".
+"
+18 ,5,1269 ,1 ,Cairo,30.0488185,31.2436663,2,14 ,7,3," ""Hotel New Marwa Palace, Cairo"".
+"
+19 ,5,2608 ,2 ,Cairo,30.0488185,31.2436663,2,7 ,5,5," ""Hotel Moevenpick, Cairo"".
+"
+20 ,5,2468 ,2 ,Cairo,30.0488185,31.2436663,2,7 ,8,5," ""Hotel Moevenpick, Cairo"".
+"
+21 ,2,1568 ,2 ,Belgium,50.6407351,4.66696,1,14 ,5,2," ""Hotel Ostend, Belgium"".
+"
+22 ,4,798 ,3 ,Belgium,50.6407351,4.66696,1,7 ,6,2," ""Hotel Ostend, Belgium"".
+"
+23 ,2,978 ,3 ,Belgium,50.6407351,4.66696,1,7 ,7,3," ""Acces Hotel Mercure, Belgium"".
+"
+24 ,2,978 ,2 ,Belgium,50.6407351,4.66696,1,7 ,8,3," ""Acces Hotel Mercure, Belgium"".
+"
+25 ,4,1448 ,3 ,Belgium,50.6407351,4.66696,1,14 ,9,6," ""H.Flat, Belgium"".
+"
+26 ,2,1638 ,4 ,Belgium,50.6407351,4.66696,1,14 ,6,6," ""H.Flat, Belgium"".
+"
+27 ,2,1079 ,4 ,Belgium,50.6407351,4.66696,1,7 ,7,6," ""H.Flat, Belgium"".
+"
+28 ,0,499 ,4 ,Belgium,50.6407351,4.66696,1,3 ,8,6," ""H.Flat, Belgium"".
+"
+29 ,0,399 ,6 ,Belgium,50.6407351,4.66696,1,3 ,9,6," ""H.Flat, Belgium"".
+"
+30 ,2,1928 ,2 ,Belgium,50.6407351,4.66696,0,14 ,7,3," ""Acces Hotel Mercure, Belgium"".
+"
+31 ,0,1598 ,2 ,Bulgaria,42.6073975,25.4856617,2,14 ,6,2," ""Hotel Amfibia, Sunny Beach"".
+"
+32 ,0,2043 ,3 ,Bulgaria,42.6073975,25.4856617,2,14 ,7,2," ""Hotel Hemus, Sunny Beach"".
+"
+33 ,0,1658 ,4 ,Bulgaria,42.6073975,25.4856617,2,7 ,8,2," ""Hotel Raliza, Albena"".
+"
+34 ,0,1558 ,2 ,Bulgaria,42.6073975,25.4856617,2,7 ,7,3," ""Hotel Phoenix, Sunny Beach"".
+"
+35 ,4,1718 ,2 ,Bulgaria,42.6073975,25.4856617,2,14 ,6,3," ""Hotel Nessebar, Sunny Beach"".
+"
+36 ,0,1383 ,3 ,Bulgaria,42.6073975,25.4856617,2,7 ,8,3," ""Hotel Gergana, Albena"".
+"
+37 ,0,3628 ,4 ,Bulgaria,42.6073975,25.4856617,2,21 ,8,3," ""Hotel Orlav, Albena"".
+"
+38 ,4,2739 ,3 ,Bulgaria,42.6073975,25.4856617,2,14 ,7,4," ""Hotel Burgas, Sunny Beach"".
+"
+39 ,0,2399 ,2 ,Bulgaria,42.6073975,25.4856617,2,14 ,9,4," ""Grandhotel Varna, Albena"".
+"
+40 ,0,2273 ,3 ,Bornholm,55.1430973,14.9226388173363,1,14 ,8,6," ""H.Flat Bornholm"".
+"
+41 ,0,1729 ,5 ,Bornholm,55.1430973,14.9226388173363,1,7 ,7,6," ""H.Flat Bornholm"".
+"
+42 ,0,1389 ,4 ,Bornholm,55.1430973,14.9226388173363,1,7 ,7,6," ""H.Flat Bornholm"".
+"
+43 ,2,968 ,6 ,Bornholm,55.1430973,14.9226388173363,1,14 ,4,6," ""H.Flat Bornholm"".
+"
+44 ,2,489 ,6 ,Bornholm,55.1430973,14.9226388173363,1,7 ,5,6," ""H.Flat Bornholm"".
+"
+45 ,2,489 ,6 ,Bornholm,55.1430973,14.9226388173363,1,7 ,9,6," ""H.Flat Bornholm"".
+"
+46 ,0,2838 ,4 ,Fano,43.8424173,13.0146632,1,14 ,7,6," ""H.Flat Fano"".
+"
+47 ,0,1399 ,6 ,Fano,43.8424173,13.0146632,1,7 ,8,6," ""H.Flat Fano"".
+"
+48 ,2,958 ,6 ,Fano,43.8424173,13.0146632,1,14 ,9,6," ""H.Flat Fano"".
+"
+49 ,2,579 ,3 ,Fano,43.8424173,13.0146632,1,7 ,6,6," ""H.Flat Romo"".
+"
+50 ,2,789 ,5 ,Fano,43.8424173,13.0146632,1,7 ,5,6," ""H.Flat Romo"".
+"
+51 ,2,2839 ,10 ,Fano,43.8424173,13.0146632,1,7 ,7,6," ""H.Flat Romo"".
+"
+52 ,0,629 ,6 ,Lolland,54.7772557,11.4156817487746,1,7 ,8,6," ""H.Flat Lolland"".
+"
+53 ,0,1598 ,4 ,Lolland,54.7772557,11.4156817487746,1,14 ,7,6," ""H.Flat Lolland"".
+"
+54 ,2,429 ,8 ,Lolland,54.7772557,11.4156817487746,1,7 ,9,6," ""H.Flat Lolland"".
+"
+55 ,2,648 ,2 ,Allgaeu,47.7852787,11.6243293,1,7 ,6,2," ""Gasthaus Meier, Allgaeu"".
+"
+56 ,1,972 ,4 ,Allgaeu,47.7852787,11.6243293,1,7 ,7,2," ""Gasthaus Alpenland, Allgaeu"".
+"
+57 ,2,1060 ,3 ,Allgaeu,47.7852787,11.6243293,1,7 ,8,3," ""Hotel Alpspitz, Allgaeu"".
+"
+58 ,1,2110 ,3 ,Allgaeu,47.7852787,11.6243293,0,14 ,7,3," ""Hotel Alpspitz, Allgaeu"".
+"
+59 ,4,1835 ,2 ,Allgaeu,47.7852787,11.6243293,1,14 ,6,5," ""Hofgut Kuernach, Allgaeu"".
+"
+60 ,1,951 ,2 ,Allgaeu,47.7852787,11.6243293,1,7 ,9,5," ""Hofgut Kuernach, Allgaeu"".
+"
+61 ,2,794 ,4 ,Allgaeu,47.7852787,11.6243293,0,7 ,8,6," ""H.Flat, Allgaeu"".
+"
+62 ,4,814 ,6 ,Allgaeu,47.7852787,11.6243293,1,7 ,7,6," ""H.Flat, Allgaeu"".
+"
+63 ,1,1568 ,4 ,Allgaeu,47.7852787,11.6243293,1,14 ,6,6," ""H.Flat, Allgaeu"".
+"
+64 ,1,644 ,4 ,Allgaeu,47.7852787,11.6243293,1,7 ,7,6," ""H.Flat, Allgaeu"".
+"
+65 ,2,648 ,2 ,Alps,45.9531685,9.23790745975765,1,7 ,6,2," ""Pension Blueml, Upper Bavaria"".
+"
+66 ,1,2232 ,3 ,Alps,45.9531685,9.23790745975765,1,14 ,7,2," ""Pension Blueml, Upper Bavaria"".
+"
+67 ,2,2082 ,4 ,Alps,45.9531685,9.23790745975765,1,7 ,8,3," ""Hotel Chiemgauer Hof, Upper Bavaria"".
+"
+68 ,2,5185 ,3 ,Alps,45.9531685,9.23790745975765,1,21 ,6,3," ""Hotel Chiemgauer Hof, Upper Bavaria"".
+"
+69 ,4,2368 ,2 ,Alps,45.9531685,9.23790745975765,0,14 ,9,3," ""Hotel Chiemgauer Hof, Upper Bavaria"".
+"
+70 ,2,3758 ,2 ,Alps,45.9531685,9.23790745975765,1,21 ,7,4," ""Hotel Zur Post, Upper Bavaria"".
+"
+71 ,2,3135 ,3 ,Alps,45.9531685,9.23790745975765,1,14 ,8,4," ""Hotel Zur Post, Upper Bavaria"".
+"
+72 ,1,3762 ,4 ,Alps,45.9531685,9.23790745975765,1,14 ,7,4," ""Hotel Zur Post, Upper Bavaria"".
+"
+73 ,2,1254 ,4 ,Alps,45.9531685,9.23790745975765,1,7 ,6,6," ""H.Flat Upper Bavaria"".
+"
+74 ,2,814 ,6 ,Alps,45.9531685,9.23790745975765,0,7 ,8,6," ""H.Flat Upper Bavaria"".
+"
+75 ,2,1361 ,2 ,Bavaria,48.9467562,11.4038717,1,14 ,9,6," ""H.Flat Upper Bavaria"".
+"
+76 ,2,1618 ,4 ,Bavaria,48.9467562,11.4038717,1,14 ,5,6," ""H.Flat Upper Bavaria"".
+"
+77 ,2,1728 ,2 ,Bavaria,48.9467562,11.4038717,0,14 ,7,6," ""H.Flat Upper Bavaria"".
+"
+78 ,1,609 ,3 ,Bavaria,48.9467562,11.4038717,1,7 ,6,6," ""H.Flat Upper Bavaria"".
+"
+79 ,1,1069 ,6 ,Bavaria,48.9467562,11.4038717,1,7 ,8,6," ""H.Flat Upper Bavaria"".
+"
+80 ,1,684 ,4 ,Bavaria,48.9467562,11.4038717,1,7 ,9,6," ""H.Flat Upper Bavaria"".
+"
+81 ,4,1328 ,4 ,Bavaria,48.9467562,11.4038717,0,14 ,5,6," ""H.Flat Upper Bavaria"".
+"
+82 ,4,779 ,2 ,Bavaria,48.9467562,11.4038717,1,7 ,6,6," ""H.Flat Upper Bavaria"".
+"
+83 ,4,1639 ,5 ,Bavaria,48.9467562,11.4038717,1,7 ,7,6," ""H.Flat Upper Bavaria"".
+"
+84 ,1,944 ,8 ,Bavaria,48.9467562,11.4038717,1,7 ,8,6," ""H.Flat Upper Bavaria"".
+"
+85 ,1,758 ,2 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,6,2," ""Wolfsgruener Schloss, Erz Gebirge"".
+"
+86 ,1,758 ,3 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,7,2," ""Wolfsgruener Schloss, Erz Gebirge"".
+"
+87 ,2,1885 ,4 ,ErzGebirge,50.5916915,13.0548630200455,1,14 ,8,2," ""Wolfsgruener Schloss, Erz Gebirge"".
+"
+88 ,2,758 ,3 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,9,2," ""Wolfsgruener Schloss, Erz Gebirge"".
+"
+89 ,1,1828 ,2 ,ErzGebirge,50.5916915,13.0548630200455,1,14 ,5,3," ""Hotel Am Fichtelberg, Erz Gebirge"".
+"
+90 ,1,918 ,2 ,ErzGebirge,50.5916915,13.0548630200455,0,7 ,7,3," ""Hotel Am Fichtelberg, Erz Gebirge"".
+"
+91 ,1,2738 ,3 ,ErzGebirge,50.5916915,13.0548630200455,1,21 ,6,3," ""Hotel Am Fichtelberg, Erz Gebirge"".
+"
+92 ,2,1828 ,3 ,ErzGebirge,50.5916915,13.0548630200455,1,14 ,9,3," ""Sporthotel, Erz Gebirge"".
+"
+93 ,2,918 ,2 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,5,3," ""Sporthotel, Erz Gebirge"".
+"
+94 ,1,1580 ,4 ,ErzGebirge,50.5916915,13.0548630200455,0,7 ,8,4," ""Kur- und Sporthotel, Erz Gebirge"".
+"
+95 ,1,958 ,2 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,7,4," ""Kur- und Sporthotel, Erz Gebirge"".
+"
+96 ,1,2385 ,3 ,ErzGebirge,50.5916915,13.0548630200455,1,14 ,6,4," ""Kur- und Sporthotel, Erz Gebirge"".
+"
+97 ,2,1372 ,3 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,8,4," ""Hotel Panorama, Erz Gebirge"".
+"
+98 ,2,2188 ,2 ,ErzGebirge,50.5916915,13.0548630200455,1,14 ,9,4," ""Hotel Panorama, Erz Gebirge"".
+"
+99 ,4,1098 ,2 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,8,4," ""Hotel Panorama, Erz Gebirge"".
+"
+100 ,2,478 ,2 ,Harz,51.72515265,10.694599785801,1,7 ,5,2," ""Hotel Brockenscheideck, Harz"".
+"
+101 ,1,948 ,2 ,Harz,51.72515265,10.694599785801,0,14 ,6,2," ""Hotel Brockenscheideck, Harz"".
+"
+102 ,2,1072 ,3 ,Harz,51.72515265,10.694599785801,1,7 ,7,3," ""Hotel Waldfrieden, Harz"".
+"
+103 ,2,1501 ,4 ,Harz,51.72515265,10.694599785801,1,7 ,8,3," ""Hotel Waldfrieden, Harz"".
+"
+104 ,2,1868 ,2 ,Harz,51.72515265,10.694599785801,1,14 ,9,3," ""Hotel Waldfrieden, Harz"".
+"
+105 ,1,1172 ,3 ,Harz,51.72515265,10.694599785801,1,7 ,5,3," ""Hotel Waldfrieden, Harz"".
+"
+106 ,2,1888 ,2 ,Harz,51.72515265,10.694599785801,1,7 ,6,5," ""Hotel Maritim, Harz"".
+"
+107 ,2,1888 ,3 ,Harz,51.72515265,10.694599785801,0,7 ,7,5," ""Hotel Maritim, Harz"".
+"
+108 ,1,3768 ,2 ,Harz,51.72515265,10.694599785801,1,14 ,5,5," ""Hotel Maritim, Harz"".
+"
+109 ,2,484 ,2 ,Harz,51.72515265,10.694599785801,1,7 ,8,6," ""H.Flat Harz"".
+"
+110 ,2,374 ,4 ,Harz,51.72515265,10.694599785801,1,7 ,9,6," ""H.Flat Harz"".
+"
+111 ,2,589 ,3 ,Harz,51.72515265,10.694599785801,1,7 ,6,6," ""H.Flat Harz"".
+"
+112 ,1,719 ,4 ,Harz,51.72515265,10.694599785801,0,7 ,7,6," ""H.Flat Harz"".
+"
+113 ,1,1248 ,4 ,Harz,51.72515265,10.694599785801,1,14 ,8,6," ""H.Flat Harz"".
+"
+114 ,0,398 ,2 ,NorthSea,47.4918099,11.0850043,1,7 ,7,1," ""Pension Murra, North Sea"".
+"
+115 ,2,398 ,2 ,NorthSea,47.4918099,11.0850043,1,7 ,6,1," ""Pension Murra, North Sea"".
+"
+116 ,0,1348 ,3 ,NorthSea,47.4918099,11.0850043,1,7 ,7,2," ""Pension Nina, North Sea"".
+"
+117 ,0,1348 ,2 ,NorthSea,47.4918099,11.0850043,1,7 ,8,2," ""Pension Nina, North Sea"".
+"
+118 ,2,3228 ,2 ,NorthSea,47.4918099,11.0850043,1,14 ,5,2," ""Hotel Silbermoeve, North Sea"".
+"
+119 ,2,1618 ,2 ,NorthSea,47.4918099,11.0850043,0,7 ,9,2," ""Hotel Silbermoeve, North Sea"".
+"
+120 ,0,719 ,4 ,NorthSea,47.4918099,11.0850043,1,7 ,8,6," ""H.Flat North Sea"".
+"
+121 ,0,669 ,6 ,NorthSea,47.4918099,11.0850043,1,7 ,7,6," ""H.Flat North Sea"".
+"
+122 ,0,2108 ,4 ,NorthSea,47.4918099,11.0850043,1,14 ,8,6," ""H.Flat North Sea"".
+"
+123 ,2,579 ,4 ,NorthSea,47.4918099,11.0850043,0,7 ,6,6," ""H.Flat North Sea"".
+"
+124 ,2,664 ,5 ,NorthSea,47.4918099,11.0850043,1,7 ,7,6," ""H.Flat North Sea"".
+"
+125 ,2,1138 ,4 ,NorthSea,47.4918099,11.0850043,1,14 ,8,6," ""H.Flat North Sea"".
+"
+126 ,4,2198 ,3 ,NorthSea,47.4918099,11.0850043,1,14 ,9,6," ""H.Flat North Sea"".
+"
+127 ,2,1044 ,6 ,NorthSea,47.4918099,11.0850043,0,7 ,6,6," ""H.Flat North Sea"".
+"
+128 ,4,719 ,3 ,NorthSea,47.4918099,11.0850043,1,7 ,8,6," ""H.Flat Sylt"".
+"
+144 ,1,547 ,3 ,BlackForest,29.683185,-98.1135839,1,7 ,5,2," ""Hotel Hirschen, Black Forest"".
+"
+145 ,2,868 ,2 ,BlackForest,29.683185,-98.1135839,1,14 ,6,2," ""Hotel Hirschen, Black Forest"".
+"
+146 ,1,907 ,3 ,BlackForest,29.683185,-98.1135839,1,7 ,7,3," ""Hotel Waldwinkel, Black Forest"".
+"
+147 ,1,698 ,2 ,BlackForest,29.683185,-98.1135839,1,14 ,8,3," ""Hotel Waldwinkel, Black Forest"".
+"
+148 ,1,738 ,2 ,BlackForest,29.683185,-98.1135839,0,7 ,9,3," ""Berghotel Kandel, Black Forest"".
+"
+149 ,2,922 ,3 ,BlackForest,29.683185,-98.1135839,1,7 ,8,3," ""Berghotel Kandel, Black Forest"".
+"
+150 ,1,3732 ,4 ,BlackForest,29.683185,-98.1135839,1,14 ,7,4," ""Kurhotel, Black Forest"".
+"
+151 ,2,1138 ,2 ,BlackForest,29.683185,-98.1135839,1,7 ,6,4," ""Kurhotel, Black Forest"".
+"
+152 ,1,449 ,2 ,BlackForest,29.683185,-98.1135839,0,7 ,5,6," ""H.Flat Black Forest"".
+"
+153 ,1,459 ,5 ,BlackForest,29.683185,-98.1135839,1,7 ,6,6," ""H.Flat Black Forest"".
+"
+154 ,1,1039 ,3 ,BlackForest,29.683185,-98.1135839,1,7 ,7,6," ""H.Flat Black Forest"".
+"
+155 ,1,2538 ,3 ,BlackForest,29.683185,-98.1135839,1,14 ,8,6," ""H.Flat Black Forest"".
+"
+156 ,2,1313 ,2 ,BlackForest,29.683185,-98.1135839,1,14 ,9,6," ""H.Flat Black Forest"".
+"
+157 ,2,904 ,6 ,BlackForest,29.683185,-98.1135839,1,7 ,10,6," ""H.Flat Black Forest"".
+"
+158 ,2,984 ,7 ,BlackForest,29.683185,-98.1135839,0,7 ,7,6," ""H.Flat Black Forest"".
+"
+159 ,2,638 ,2 ,Thuringia,50.7333163,11.0747905,1,7 ,5,3," ""Berghotel Oberhof, Thuringia"".
+"
+160 ,2,922 ,3 ,Thuringia,50.7333163,11.0747905,1,7 ,8,3," ""Berghotel Oberhof, Thuringia"".
+"
+161 ,4,998 ,2 ,Thuringia,50.7333163,11.0747905,1,7 ,6,3," ""Hotel Finsterbergen, Thuringia"".
+"
+162 ,1,2588 ,3 ,Thuringia,50.7333163,11.0747905,1,14 ,7,3," ""Hotel Finsterbergen, Thuringia"".
+"
+163 ,1,1377 ,4 ,Thuringia,50.7333163,11.0747905,0,7 ,8,4," ""Hotel Rennsteig, Thuringia"".
+"
+164 ,2,918 ,2 ,Thuringia,50.7333163,11.0747905,1,7 ,9,4," ""Hotel Rennsteig, Thuringia"".
+"
+165 ,4,2285 ,3 ,Thuringia,50.7333163,11.0747905,1,14 ,8,4," ""Hotel Rennsteig, Thuringia"".
+"
+166 ,2,2668 ,2 ,Thuringia,50.7333163,11.0747905,1,14 ,10,4," ""Hotel Panorama, Thuringia"".
+"
+167 ,4,1497 ,3 ,Thuringia,50.7333163,11.0747905,1,7 ,8,4," ""Hotel Panorama, Thuringia"".
+"
+168 ,4,2388 ,3 ,Thuringia,50.7333163,11.0747905,1,14 ,8,4," ""Hotel Panorama, Thuringia"".
+"
+169 ,2,589 ,4 ,Thuringia,50.7333163,11.0747905,1,7 ,7,6," ""H.Flat Thuringia"".
+"
+170 ,2,1128 ,4 ,Thuringia,50.7333163,11.0747905,0,14 ,6,6," ""H.Flat Thuringia"".
+"
+171 ,2,589 ,4 ,Thuringia,50.7333163,11.0747905,1,7 ,5,6," ""H.Flat Thuringia"".
+"
+172 ,2,1148 ,4 ,Thuringia,50.7333163,11.0747905,1,14 ,7,6," ""H.Flat Thuringia"".
+"
+173 ,1,574 ,4 ,Thuringia,50.7333163,11.0747905,1,7 ,8,6," ""H.Flat Thuringia"".
+"
+174 ,0,858 ,4 ,Atlantic,39.5143268,-74.6632882,1,14 ,5,6," ""H.Flat Atlantik, France"".
+"
+175 ,0,2078 ,4 ,Atlantic,39.5143268,-74.6632882,1,14 ,6,6," ""H.Flat Atlantik, France"".
+"
+176 ,0,4718 ,7 ,Atlantic,39.5143268,-74.6632882,1,14 ,7,6," ""H.Flat Atlantik, France"".
+"
+177 ,0,1698 ,4 ,Atlantic,39.5143268,-74.6632882,1,14 ,8,6," ""H.Flat Atlantik, France"".
+"
+178 ,0,649 ,6 ,Atlantic,39.5143268,-74.6632882,1,7 ,9,6," ""H.Flat Atlantik, France"".
+"
+179 ,0,394 ,3 ,Atlantic,39.5143268,-74.6632882,1,7 ,6,6," ""H.Flat Atlantik, France"".
+"
+180 ,0,1289 ,5 ,Atlantic,39.5143268,-74.6632882,1,7 ,7,6," ""H.Flat Atlantik, France"".
+"
+181 ,0,879 ,4 ,Atlantic,39.5143268,-74.6632882,1,7 ,8,6," ""H.Flat Atlantik, France"".
+"
+182 ,0,1347 ,3 ,Atlantic,39.5143268,-74.6632882,1,21 ,5,6," ""H.Flat Atlantik, France"".
+"
+183 ,4,838 ,5 ,Atlantic,39.5143268,-74.6632882,1,14 ,6,6," ""H.Flat Atlantik, France"".
+"
+184 ,4,1938 ,6 ,Atlantic,39.5143268,-74.6632882,1,14 ,7,6," ""H.Flat Atlantik, France"".
+"
+185 ,4,849 ,6 ,Atlantic,39.5143268,-74.6632882,1,7 ,8,6," ""H.Flat Atlantik, France"".
+"
+186 ,4,1204 ,8 ,Atlantic,39.5143268,-74.6632882,1,7 ,6,6," ""H.Flat Atlantik, France"".
+"
+187 ,2,2878 ,8 ,Atlantic,39.5143268,-74.6632882,1,14 ,7,6," ""H.Flat Atlantik, France"".
+"
+188 ,2,2187 ,2 ,Atlantic,39.5143268,-74.6632882,1,21 ,8,6," ""H.Flat Atlantik, France"".
+"
+189 ,0,519 ,2 ,CotedAzur,-26.116624,28.2507261,1,7 ,4,6," ""H.Flat Cote d'Azur"".
+"
+190 ,0,479 ,3 ,CotedAzur,-26.116624,28.2507261,1,7 ,5,6," ""H.Flat Cote d'Azur"".
+"
+191 ,0,829 ,7 ,CotedAzur,-26.116624,28.2507261,1,7 ,6,6," ""H.Flat Cote d'Azur"".
+"
+192 ,0,1089 ,5 ,CotedAzur,-26.116624,28.2507261,1,7 ,7,6," ""H.Flat Cote d'Azur"".
+"
+193 ,0,1029 ,5 ,CotedAzur,-26.116624,28.2507261,1,7 ,8,6," ""H.Flat Cote d'Azur"".
+"
+194 ,0,799 ,6 ,CotedAzur,-26.116624,28.2507261,1,7 ,9,6," ""H.Flat Cote d'Azur"".
+"
+195 ,0,449 ,4 ,CotedAzur,-26.116624,28.2507261,0,7 ,10,6," ""H.Flat Cote d'Azur"".
+"
+196 ,0,1198 ,4 ,CotedAzur,-26.116624,28.2507261,1,14 ,5,6," ""H.Flat Cote d'Azur"".
+"
+197 ,0,1108 ,4 ,CotedAzur,-26.116624,28.2507261,0,14 ,6,6," ""H.Flat Cote d'Azur"".
+"
+198 ,0,4458 ,7 ,CotedAzur,-26.116624,28.2507261,1,14 ,7,6," ""H.Flat Cote d'Azur"".
+"
+199 ,4,2678 ,3 ,CotedAzur,-26.116624,28.2507261,1,14 ,8,6," ""H.Flat Cote d'Azur"".
+"
+200 ,4,1598 ,4 ,CotedAzur,-26.116624,28.2507261,1,14 ,9,6," ""H.Flat Cote d'Azur"".
+"
+201 ,4,589 ,6 ,CotedAzur,-26.116624,28.2507261,1,7 ,5,6," ""H.Flat Cote d'Azur"".
+"
+202 ,2,449 ,2 ,CotedAzur,-26.116624,28.2507261,0,7 ,6,6," ""H.Flat Cote d'Azur"".
+"
+203 ,2,1838 ,3 ,CotedAzur,-26.116624,28.2507261,1,14 ,7,6," ""H.Flat Cote d'Azur"".
+"
+204 ,0,1539 ,2 ,Corsica,42.1640662,9.0982074,2,14 ,5,1," ""Caravan La Pinede"".
+"
+205 ,0,2469 ,3 ,Corsica,42.1640662,9.0982074,2,14 ,6,1," ""Hotel L'Esquinade"".
+"
+206 ,0,5269 ,4 ,Corsica,42.1640662,9.0982074,2,14 ,7,2," ""Feriendorf Vallicella"".
+"
+207 ,0,2249 ,3 ,Corsica,42.1640662,9.0982074,2,21 ,6,2," ""Mobilhomes La Pinede"".
+"
+208 ,0,1898 ,2 ,Corsica,42.1640662,9.0982074,2,7 ,8,2," ""Hotel Funtana Marina"".
+"
+209 ,0,3522 ,4 ,Corsica,42.1640662,9.0982074,2,7 ,7,2," ""Feriendorf Vallicella"".
+"
+210 ,0,3459 ,3 ,Corsica,42.1640662,9.0982074,2,14 ,8,3," ""Calvi-Hotel"".
+"
+211 ,0,2539 ,2 ,Corsica,42.1640662,9.0982074,2,14 ,9,3," ""Studios Le Rocher"".
+"
+212 ,0,5659 ,3 ,Corsica,42.1640662,9.0982074,2,21 ,7,3," ""Hotel Pineto"".
+"
+213 ,0,3298 ,2 ,Corsica,42.1640662,9.0982074,2,14 ,6,3," ""Hotel Orizonte"".
+"
+214 ,4,2718 ,2 ,Corsica,42.1640662,9.0982074,2,14 ,9,3," ""Grand Hotel"".
+"
+215 ,4,5678 ,3 ,Corsica,42.1640662,9.0982074,2,21 ,8,3," ""Grand Hotel"".
+"
+216 ,4,2038 ,2 ,Corsica,42.1640662,9.0982074,2,14 ,6,2," ""Mobilhomes La Pinede"".
+"
+217 ,1,634 ,1 ,Corsica,42.1640662,9.0982074,2,7 ,4,2," ""Mobilhomes La Pinede"".
+"
+218 ,1,2578 ,2 ,Corsica,42.1640662,9.0982074,2,14 ,5,3," ""Grand Hotel"".
+"
+219 ,0,659 ,4 ,Normandy,49.0677708,0.3138532,1,7 ,6,6," ""H.Flat Normandy"".
+"
+220 ,0,709 ,2 ,Normandy,49.0677708,0.3138532,1,7 ,7,6," ""H.Flat Normandy"".
+"
+221 ,4,809 ,4 ,Normandy,49.0677708,0.3138532,1,7 ,8,6," ""H.Flat Normandy"".
+"
+222 ,4,1418 ,2 ,Normandy,49.0677708,0.3138532,1,14 ,8,6," ""H.Flat Normandy"".
+"
+223 ,2,1618 ,4 ,Normandy,49.0677708,0.3138532,1,14 ,7,6," ""H.Flat Normandy"".
+"
+224 ,0,689 ,4 ,Brittany,48.16189165,-2.68371136307505,1,7 ,6,6," ""H.Flat Brittany"".
+"
+225 ,0,1549 ,7 ,Brittany,48.16189165,-2.68371136307505,1,7 ,7,6," ""H.Flat Brittany"".
+"
+226 ,0,1064 ,5 ,Brittany,48.16189165,-2.68371136307505,1,7 ,8,6," ""H.Flat Brittany"".
+"
+227 ,0,519 ,4 ,Brittany,48.16189165,-2.68371136307505,1,7 ,9,6," ""H.Flat Brittany"".
+"
+228 ,4,1219 ,6 ,Brittany,48.16189165,-2.68371136307505,1,7 ,8,6," ""H.Flat Brittany"".
+"
+229 ,4,889 ,4 ,Brittany,48.16189165,-2.68371136307505,1,7 ,7,6," ""H.Flat Brittany"".
+"
+230 ,4,1268 ,4 ,Brittany,48.16189165,-2.68371136307505,1,14 ,6,6," ""H.Flat Brittany"".
+"
+231 ,2,2108 ,5 ,Brittany,48.16189165,-2.68371136307505,1,14 ,7,6," ""H.Flat Brittany"".
+"
+232 ,2,1258 ,4 ,Brittany,48.16189165,-2.68371136307505,1,14 ,8,6," ""H.Flat Brittany"".
+"
+233 ,2,1797 ,4 ,Brittany,48.16189165,-2.68371136307505,1,21 ,6,6," ""H.Flat Brittany"".
+"
+234 ,0,3485 ,3 ,Attica,40.2942012,-87.2489023,2,14 ,5,4," ""Hotel Golden Coast, Attica"".
+"
+235 ,0,2038 ,2 ,Attica,40.2942012,-87.2489023,2,14 ,4,2," ""Hotel Calamos Beach, Attica"".
+"
+236 ,0,3129 ,4 ,Attica,40.2942012,-87.2489023,2,7 ,9,3," ""Hotel Kalypso Club, Attica"".
+"
+237 ,0,2518 ,2 ,Attica,40.2942012,-87.2489023,2,14 ,6,3," ""Hotel Menexelis, Attica"".
+"
+238 ,0,3215 ,3 ,Attica,40.2942012,-87.2489023,2,14 ,7,3," ""Hotel Miramare, Attica"".
+"
+239 ,0,4002 ,3 ,Attica,40.2942012,-87.2489023,2,21 ,9,4," ""Hotel Holidays in Evia, Attica"".
+"
+240 ,0,3216 ,4 ,Attica,40.2942012,-87.2489023,2,7 ,8,3," ""Hotel Menexelis, Attica"".
+"
+241 ,0,1149 ,1 ,Attica,40.2942012,-87.2489023,2,14 ,6,2," ""Hotel Calamos Beach, Attica"".
+"
+242 ,0,3658 ,2 ,Attica,40.2942012,-87.2489023,2,14 ,7,4," ""Hotel Golden Coast, Attica"".
+"
+243 ,0,3458 ,2 ,Attica,40.2942012,-87.2489023,2,21 ,8,3," ""Hotel Menexelis, Attica"".
+"
+244 ,0,2742 ,3 ,Attica,40.2942012,-87.2489023,2,14 ,7,2," ""Hotel Calamos Beach, Attica"".
+"
+245 ,2,2258 ,2 ,Attica,40.2942012,-87.2489023,2,7 ,6,4," ""Hotel Golden Coast, Attica"".
+"
+246 ,2,1169 ,1 ,Attica,40.2942012,-87.2489023,2,14 ,9,3," ""Hotel Miramare, Attica"".
+"
+247 ,2,3215 ,3 ,Attica,40.2942012,-87.2489023,2,14 ,8,3," ""Hotel Miramare, Attica"".
+"
+248 ,2,3378 ,2 ,Attica,40.2942012,-87.2489023,2,21 ,5,4," ""Hotel Golden Coast, Attica"".
+"
+249 ,0,2787 ,3 ,Chalkidiki,40.31369605,23.3733549586499,2,14 ,7,2," ""Hotel Sermyli, Chalkidiki"".
+"
+250 ,0,4673 ,4 ,Chalkidiki,40.31369605,23.3733549586499,2,14 ,8,3," ""Hotel Portes Beach, Chalkidiki"".
+"
+251 ,0,2898 ,2 ,Chalkidiki,40.31369605,23.3733549586499,2,21 ,9,3," ""Hotel Mendi, Chalkidiki"".
+"
+252 ,0,2538 ,2 ,Chalkidiki,40.31369605,23.3733549586499,2,14 ,6,3," ""Hotel Olympico, Chalkidiki"".
+"
+253 ,0,2427 ,3 ,Chalkidiki,40.31369605,23.3733549586499,2,7 ,7,3," ""Hotel Olympico, Chalkidiki"".
+"
+254 ,2,2358 ,2 ,Chalkidiki,40.31369605,23.3733549586499,2,14 ,5,3," ""Hotel Olympico, Chalkidiki"".
+"
+255 ,2,2898 ,2 ,Chalkidiki,40.31369605,23.3733549586499,2,21 ,9,3," ""Hotel Mendi, Chalkidiki"".
+"
+256 ,2,2398 ,2 ,Chalkidiki,40.31369605,23.3733549586499,2,14 ,6,3," ""Hotel Mendi, Chalkidiki"".
+"
+257 ,4,3718 ,3 ,Chalkidiki,40.31369605,23.3733549586499,2,14 ,7,4," ""Hotel Sani Beach, Chalkidiki"".
+"
+258 ,4,3299 ,3 ,Chalkidiki,40.31369605,23.3733549586499,2,7 ,8,4," ""Hotel Sani Beach, Chalkidik"".
+"
+259 ,4,3318 ,2 ,Chalkidiki,40.31369605,23.3733549586499,2,14 ,6,4," ""Hotel Sani Beach, Chalkidik"".
+"
+260 ,2,5329 ,4 ,Chalkidiki,40.31369605,23.3733549586499,2,14 ,7,4," ""Hotel Athos Palace, Chalkidiki"".
+"
+261 ,2,3258 ,2 ,Chalkidiki,40.31369605,23.3733549586499,2,21 ,5,4," ""Hotel Athos Palace, Chalkidiki"".
+"
+262 ,2,3038 ,2 ,Chalkidiki,40.31369605,23.3733549586499,2,14 ,9,4," ""Hotel Athos Palace, Chalkidiki"".
+"
+263 ,6,2738 ,2 ,Chalkidiki,40.31369605,23.3733549586499,2,21 ,10,4," ""Hotel Athos Palace, Chalkidiki"".
+"
+264 ,0,2831 ,3 ,Corfu,42.9600595,-78.4055766,2,14 ,6,2," ""Hotel Iliada, Corfu"".
+"
+265 ,0,3644 ,4 ,Corfu,42.9600595,-78.4055766,2,14 ,7,2," ""Hotel Iliada, Corfu"".
+"
+266 ,0,3258 ,2 ,Corfu,42.9600595,-78.4055766,2,21 ,9,3," ""Hotel Belvedere, Corfu"".
+"
+267 ,0,3793 ,3 ,Corfu,42.9600595,-78.4055766,2,14 ,8,3," ""Hotel Belvedere, Corfu"".
+"
+268 ,0,2779 ,3 ,Corfu,42.9600595,-78.4055766,2,7 ,8,3," ""Hotel Belvedere, Corfu"".
+"
+269 ,0,2698 ,2 ,Corfu,42.9600595,-78.4055766,2,14 ,6,3," ""Hotel Coral, Corfu"".
+"
+270 ,0,3649 ,3 ,Corfu,42.9600595,-78.4055766,2,21 ,9,3," ""Hotel Coral, Corfu"".
+"
+271 ,0,3078 ,2 ,Corfu,42.9600595,-78.4055766,2,14 ,7,3," ""Hotel Coral, Corfu"".
+"
+272 ,0,3198 ,2 ,Corfu,42.9600595,-78.4055766,2,14 ,9,3," ""Hotel Mirabell, Corfu"".
+"
+273 ,4,3758 ,2 ,Corfu,42.9600595,-78.4055766,2,21 ,6,3," ""Hotel Mirabell, Corfu"".
+"
+274 ,4,3198 ,3 ,Corfu,42.9600595,-78.4055766,2,14 ,8,3," ""Hotel Mirabell, Corfu"".
+"
+275 ,4,2158 ,2 ,Corfu,42.9600595,-78.4055766,2,7 ,7,4," ""Hotel Regency, Corfu"".
+"
+276 ,2,3418 ,2 ,Corfu,42.9600595,-78.4055766,2,21 ,6,4," ""Hotel Regency, Corfu"".
+"
+277 ,2,3038 ,2 ,Corfu,42.9600595,-78.4055766,2,14 ,9,4," ""Hotel Kerkyra Golf, Corfu"".
+"
+278 ,2,2043 ,3 ,Corfu,42.9600595,-78.4055766,2,7 ,5,4," ""Hotel Kerkyra Golf, Corfu"".
+"
+279 ,0,2498 ,2 ,Crete,41.4444791,-87.6314311,2,14 ,6,2," ""Hotel Oceanis, Crete"".
+"
+280 ,0,2417 ,3 ,Crete,41.4444791,-87.6314311,2,14 ,7,2," ""Hotel Ilios, Crete"".
+"
+281 ,4,2825 ,4 ,Crete,41.4444791,-87.6314311,2,7 ,8,2," ""Hotel Oceanis, Crete"".
+"
+282 ,0,3498 ,2 ,Crete,41.4444791,-87.6314311,2,14 ,9,3," ""Hotel Creta Beach, Crete"".
+"
+283 ,0,4198 ,2 ,Crete,41.4444791,-87.6314311,2,21 ,6,3," ""Hotel Creta Beach, Crete"".
+"
+284 ,0,3847 ,3 ,Crete,41.4444791,-87.6314311,2,14 ,8,3," ""Hotel Creta Beach, Crete"".
+"
+285 ,0,3175 ,4 ,Crete,41.4444791,-87.6314311,2,7 ,7,3," ""Hotel Gortyna, Crete"".
+"
+286 ,4,3038 ,2 ,Crete,41.4444791,-87.6314311,2,14 ,9,3," ""Hotel Gortyna, Crete"".
+"
+287 ,4,2758 ,2 ,Crete,41.4444791,-87.6314311,2,14 ,6,3," ""Hotel Gortyna, Crete"".
+"
+288 ,0,3198 ,2 ,Crete,41.4444791,-87.6314311,2,14 ,6,4," ""Hotel Fodele Beach, Crete"".
+"
+289 ,0,2298 ,2 ,Crete,41.4444791,-87.6314311,2,7 ,5,4," ""Hotel Fodele Beach, Crete"".
+"
+290 ,0,6609 ,3 ,Crete,41.4444791,-87.6314311,2,21 ,7,4," ""Hotel Bali Paradise, Crete"".
+"
+291 ,4,4068 ,3 ,Crete,41.4444791,-87.6314311,2,14 ,8,4," ""Hotel Bali Paradise, Crete"".
+"
+292 ,4,4463 ,3 ,Crete,41.4444791,-87.6314311,2,21 ,6,4," ""Hotel Europa Beach, Crete"".
+"
+293 ,6,3038 ,2 ,Crete,41.4444791,-87.6314311,2,14 ,5,4," ""Hotel Europa Beach, Crete"".
+"
+294 ,0,2263 ,3 ,Rhodes,48.7579899,6.8988106,2,14 ,5,2," ""Studios Argiro, Rhodes"".
+"
+295 ,0,2428 ,2 ,Rhodes,48.7579899,6.8988106,2,21 ,6,2," ""Studios Argiro, Rhodes"".
+"
+296 ,0,2263 ,3 ,Rhodes,48.7579899,6.8988106,2,7 ,7,3," ""Hotel Dafni, Rhodes"".
+"
+297 ,0,3553 ,4 ,Rhodes,48.7579899,6.8988106,2,14 ,8,3," ""Hotel Dafni, Rhodes"".
+"
+298 ,0,2791 ,3 ,Rhodes,48.7579899,6.8988106,2,14 ,7,3," ""Hotel Dafni, Rhodes"".
+"
+299 ,2,1968 ,2 ,Rhodes,48.7579899,6.8988106,2,7 ,5,3," ""Hotel Kalithea Sun, Rhodes"".
+"
+300 ,4,2758 ,2 ,Rhodes,48.7579899,6.8988106,2,14 ,6,3," ""Hotel Kalithea Sun, Rhodes"".
+"
+301 ,4,4364 ,3 ,Rhodes,48.7579899,6.8988106,2,21 ,7,3," ""Hotel Kalithea Sun, Rhodes"".
+"
+302 ,6,2478 ,2 ,Rhodes,48.7579899,6.8988106,2,14 ,10,3," ""Hotel Kalithea Sun, Rhodes"".
+"
+303 ,0,3869 ,3 ,Rhodes,48.7579899,6.8988106,2,14 ,7,4," ""Hotel Columbia Resort, Rhodes"".
+"
+304 ,0,3958 ,2 ,Rhodes,48.7579899,6.8988106,2,21 ,9,4," ""Hotel Columbia Resort, Rhodes"".
+"
+305 ,0,4925 ,4 ,Rhodes,48.7579899,6.8988106,2,14 ,8,4," ""Hotel Columbia Resort, Rhodes"".
+"
+306 ,4,3498 ,2 ,Rhodes,48.7579899,6.8988106,2,14 ,7,4," ""Hotel Paradise Beach, Rhodes"".
+"
+307 ,2,2298 ,2 ,Rhodes,48.7579899,6.8988106,2,7 ,6,4," ""Hotel Paradise Beach, Rhodes"".
+"
+308 ,6,3098 ,2 ,Rhodes,48.7579899,6.8988106,2,14 ,9,4," ""Hotel Paradise Beach, Rhodes"".
+"
+309 ,6,2068 ,4 ,England,52.7954791,-0.540240236617432,1,14 ,6,6," ""H.Flat England"".
+"
+310 ,7,3582 ,6 ,England,52.7954791,-0.540240236617432,1,21 ,7,6," ""H.Flat England"".
+"
+311 ,7,2398 ,8 ,England,52.7954791,-0.540240236617432,1,14 ,8,6," ""H.Flat England"".
+"
+312 ,2,2298 ,7 ,England,52.7954791,-0.540240236617432,1,14 ,9,6," ""H.Flat England"".
+"
+313 ,2,3297 ,6 ,England,52.7954791,-0.540240236617432,1,21 ,7,6," ""H.Flat England"".
+"
+314 ,6,3208 ,8 ,Ireland,52.865196,-7.9794598,1,14 ,8,6," ""H.Flat Ireland"".
+"
+315 ,7,2592 ,6 ,Ireland,52.865196,-7.9794598,1,21 ,6,6," ""H.Flat Ireland"".
+"
+316 ,7,2048 ,7 ,Ireland,52.865196,-7.9794598,1,14 ,7,6," ""H.Flat Ireland"".
+"
+317 ,2,2388 ,4 ,Ireland,52.865196,-7.9794598,1,14 ,8,6," ""H.Flat Ireland"".
+"
+318 ,2,2457 ,8 ,Ireland,52.865196,-7.9794598,1,21 ,9,6," ""H.Flat Ireland"".
+"
+319 ,6,2458 ,3 ,Scotland,56.7861112,-4.1140517,1,14 ,6,6," ""H.Flat Scotland"".
+"
+320 ,7,3282 ,2 ,Scotland,56.7861112,-4.1140517,1,21 ,7,6," ""H.Flat Scotland"".
+"
+321 ,7,3878 ,6 ,Scotland,56.7861112,-4.1140517,1,14 ,8,6," ""H.Flat Scotland"".
+"
+322 ,2,2738 ,2 ,Scotland,56.7861112,-4.1140517,1,14 ,9,6," ""H.Flat Scotland"".
+"
+323 ,2,2248 ,2 ,Scotland,56.7861112,-4.1140517,1,21 ,7,6," ""H.Flat Scotland"".
+"
+324 ,6,1808 ,5 ,Wales,52.2928116,-3.7389299,1,14 ,6,6," ""H.Flat Wales"".
+"
+325 ,7,3732 ,5 ,Wales,52.2928116,-3.7389299,1,21 ,7,6," ""H.Flat Wales"".
+"
+326 ,7,2628 ,6 ,Wales,52.2928116,-3.7389299,1,14 ,8,6," ""H.Flat Wales"".
+"
+327 ,2,1888 ,6 ,Wales,52.2928116,-3.7389299,1,14 ,9,6," ""H.Flat Wales"".
+"
+328 ,2,3297 ,6 ,Wales,52.2928116,-3.7389299,1,21 ,7,6," ""H.Flat Wales"".
+"
+329 ,0,1408 ,6 ,NorthSea,47.4918099,11.0850043,1,14 ,6,6," ""H.Flat North Sea, Holland"".
+"
+330 ,0,649 ,5 ,NorthSea,47.4918099,11.0850043,1,7 ,7,6," ""H.Flat North Sea, Holland"".
+"
+331 ,0,1478 ,3 ,NorthSea,47.4918099,11.0850043,1,14 ,8,6," ""H.Flat North Sea, Holland"".
+"
+332 ,4,1598 ,4 ,NorthSea,47.4918099,11.0850043,1,14 ,7,6," ""H.Flat North Sea, Holland"".
+"
+333 ,2,559 ,6 ,NorthSea,47.4918099,11.0850043,0,7 ,8,6," ""H.Flat North Sea, Holland"".
+"
+334 ,2,1198 ,3 ,NorthSea,47.4918099,11.0850043,0,14 ,9,6," ""H.Flat North Sea, Holland"".
+"
+335 ,4,514 ,5 ,NorthSea,47.4918099,11.0850043,3,7 ,6,6," ""H.Flat North Sea, Holland"".
+"
+336 ,0,474 ,5 ,NorthSea,47.4918099,11.0850043,1,3 ,6,6," ""H.Flat North Sea, Holland"".
+"
+337 ,0,539 ,4 ,NorthSea,47.4918099,11.0850043,1,3 ,5,6," ""H.Flat North Sea, Holland"".
+"
+338 ,0,329 ,6 ,NorthSea,47.4918099,11.0850043,1,3 ,6,6," ""H.Flat North Sea, Holland"".
+"
+339 ,4,3280 ,4 ,Holland,42.7876022,-86.1090827,1,14 ,4,6," ""Park Gran Dorado, Holland"".
+"
+340 ,4,790 ,2 ,Holland,42.7876022,-86.1090827,0,7 ,5,6," ""Park Gran Dorado, Holland"".
+"
+341 ,4,2620 ,4 ,Holland,42.7876022,-86.1090827,0,14 ,6,6," ""Park Gran Dorado, Holland"".
+"
+342 ,4,1900 ,5 ,Holland,42.7876022,-86.1090827,0,14 ,10,6," ""Park Gran Dorado, Holland"".
+"
+343 ,2,2760 ,4 ,Holland,42.7876022,-86.1090827,0,14 ,7,6," ""Park Gran Dorado, Holland"".
+"
+344 ,2,1580 ,6 ,Holland,42.7876022,-86.1090827,3,7 ,8,6," ""Park Gran Dorado, Holland"".
+"
+345 ,2,2468 ,2 ,Holland,42.7876022,-86.1090827,3,14 ,9,6," ""Park Gran Dorado, Holland"".
+"
+346 ,2,2780 ,4 ,Holland,42.7876022,-86.1090827,3,14 ,7,6," ""Park Gran Dorado, Holland"".
+"
+347 ,2,485 ,2 ,Holland,42.7876022,-86.1090827,3,3 ,5,6," ""Park Gran Dorado, Holland"".
+"
+348 ,2,735 ,4 ,Holland,42.7876022,-86.1090827,3,4 ,6,6," ""Park Gran Dorado, Holland"".
+"
+349 ,2,705 ,6 ,Holland,42.7876022,-86.1090827,3,3 ,9,6," ""Park Gran Dorado, Holland"".
+"
+390 ,0,1178 ,2 ,Riviera,24.9938902,-77.4542757063961,1,14 ,7,1," ""Hotel Tritone, Ital. Riviera"".
+"
+391 ,0,622 ,3 ,Riviera,24.9938902,-77.4542757063961,1,7 ,8,1," ""Hotel Tritone, Ital. Riviera"".
+"
+392 ,2,648 ,2 ,Riviera,24.9938902,-77.4542757063961,1,7 ,4,2," ""Hotel Al Sole, Ital. Riviera"".
+"
+393 ,2,1508 ,2 ,Riviera,24.9938902,-77.4542757063961,1,14 ,6,2," ""Hotel Al Sole, Ital. Riviera"".
+"
+394 ,0,747 ,3 ,Riviera,24.9938902,-77.4542757063961,1,7 ,9,2," ""Hotel La Vela, Ital. Riviera"".
+"
+395 ,0,2222 ,4 ,Riviera,24.9938902,-77.4542757063961,1,14 ,7,2," ""Hotel La Vela, Ital. Riviera"".
+"
+396 ,0,869 ,5 ,Riviera,24.9938902,-77.4542757063961,1,7 ,7,6," ""H.Flat Riviera, Italy"".
+"
+397 ,0,484 ,3 ,Riviera,24.9938902,-77.4542757063961,1,7 ,8,6," ""H.Flat Riviera, Italy"".
+"
+398 ,0,599 ,2 ,Riviera,24.9938902,-77.4542757063961,1,14 ,9,6," ""H.Flat Riviera, Italy"".
+"
+399 ,0,2678 ,4 ,Riviera,24.9938902,-77.4542757063961,1,14 ,8,6," ""H.Flat Riviera, Italy"".
+"
+400 ,0,1738 ,3 ,Riviera,24.9938902,-77.4542757063961,1,14 ,7,6," ""H.Flat Riviera, Italy"".
+"
+401 ,2,429 ,6 ,Riviera,24.9938902,-77.4542757063961,1,7 ,6,6," ""H.Flat Riviera, Italy"".
+"
+402 ,2,1088 ,6 ,Riviera,24.9938902,-77.4542757063961,1,14 ,5,6," ""H.Flat Riviera, Italy"".
+"
+403 ,4,529 ,4 ,Riviera,24.9938902,-77.4542757063961,1,7 ,6,6," ""H.Flat Riviera, Italy"".
+"
+404 ,4,1588 ,2 ,Riviera,24.9938902,-77.4542757063961,1,14 ,7,6," ""H.Flat Riviera, Italy"".
+"
+405 ,1,1258 ,2 ,Tyrol,47.223193,11.5261028,1,14 ,6,2," ""Pension garni Toni, South Tyrol"".
+"
+406 ,2,822 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,5,2," ""Pension garni Toni, South Tyrol"".
+"
+407 ,1,1499 ,3 ,Tyrol,47.223193,11.5261028,1,14 ,7,3," ""Hotel Untersteinerhof, South Tyrol"".
+"
+408 ,1,718 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,9,3," ""Hotel Untersteinerhof, South Tyrol"".
+"
+409 ,2,1528 ,2 ,Tyrol,47.223193,11.5261028,1,14 ,8,3," ""Gasthof Adler, South Tyrol"".
+"
+410 ,4,798 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,7,3," ""Gasthof Adler, South Tyrol"".
+"
+411 ,1,1479 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,6,4," ""Posthotel Weisses Roessel, South Tyrol"".
+"
+412 ,1,2658 ,2 ,Tyrol,47.223193,11.5261028,1,14 ,7,4," ""Posthotel Weisses Roessel, South Tyrol"".
+"
+413 ,2,1997 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,9,4," ""Hotel Nido, South Tyrol"".
+"
+414 ,2,2888 ,2 ,Tyrol,47.223193,11.5261028,1,14 ,6,4," ""Hotel Nido, South Tyrol"".
+"
+415 ,1,439 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,6,6," ""H.Flat Tirol, Italy"".
+"
+416 ,1,319 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,7,6," ""H.Flat Tirol, Italy"".
+"
+417 ,2,769 ,6 ,Tyrol,47.223193,11.5261028,1,7 ,8,6," ""H.Flat Tirol, Italy"".
+"
+418 ,2,1398 ,4 ,Tyrol,47.223193,11.5261028,1,14 ,9,6," ""H.Flat Tirol, Italy"".
+"
+419 ,4,559 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,5,6," ""H.Flat Tirol, Italy"".
+"
+420 ,7,2039 ,1 ,Malta,27.5015719,85.2451666,2,21 ,9,2," ""Sprachkurs, Malta"".
+"
+421 ,7,4078 ,2 ,Malta,27.5015719,85.2451666,2,21 ,7,2," ""Sprachkurs, Malta"".
+"
+422 ,7,1539 ,1 ,Malta,27.5015719,85.2451666,2,14 ,8,2," ""Sprachkurs, Malta"".
+"
+423 ,0,1598 ,2 ,Malta,27.5015719,85.2451666,2,14 ,6,2," ""Hotel Viking, Malta"".
+"
+424 ,7,2039 ,1 ,Malta,27.5015719,85.2451666,2,21 ,9,3," ""Sprachkurs, Malta"".
+"
+425 ,0,3637 ,3 ,Malta,27.5015719,85.2451666,2,14 ,7,3," ""Hotel Calypso, Malta"".
+"
+426 ,0,4476 ,4 ,Malta,27.5015719,85.2451666,2,14 ,8,3," ""Hotel Calypso, Malta"".
+"
+427 ,0,4729 ,3 ,Malta,27.5015719,85.2451666,2,21 ,7,3," ""Hotel Calypso, Malta"".
+"
+428 ,4,3078 ,2 ,Malta,27.5015719,85.2451666,2,14 ,9,3," ""Hotel Atlantis, Malta"".
+"
+429 ,2,3518 ,2 ,Malta,27.5015719,85.2451666,2,21 ,5,3," ""Hotel Atlantis, Malta"".
+"
+430 ,0,4147 ,3 ,Malta,27.5015719,85.2451666,2,14 ,8,4," ""Hotel Suncrest, Malta"".
+"
+431 ,0,3978 ,2 ,Malta,27.5015719,85.2451666,2,21 ,6,4," ""Hotel Suncrest, Malta"".
+"
+432 ,4,3267 ,4 ,Malta,27.5015719,85.2451666,2,7 ,7,4," ""Hotel Suncrest, Malta"".
+"
+433 ,4,4391 ,3 ,Malta,27.5015719,85.2451666,2,14 ,8,4," ""Hotel Cornucopia, Malta"".
+"
+434 ,2,3278 ,2 ,Malta,27.5015719,85.2451666,2,14 ,5,4," ""Hotel Cornucopia, Malta"".
+"
+435 ,1,1008 ,2 ,Carinthia,46.7500001,13.8333333,1,14 ,5,2," ""Pension Linde, Carinthia"".
+"
+436 ,1,538 ,3 ,Carinthia,46.7500001,13.8333333,1,7 ,6,2," ""Pension Linde, Carinthia"".
+"
+437 ,2,1472 ,3 ,Carinthia,46.7500001,13.8333333,1,14 ,7,2," ""Pension Seehof, Carinthia"".
+"
+438 ,2,1438 ,2 ,Carinthia,46.7500001,13.8333333,1,21 ,8,2," ""Pension Seehof, Carinthia"".
+"
+439 ,1,1498 ,2 ,Carinthia,46.7500001,13.8333333,1,14 ,9,3," ""Aktivhotel Alte Muehle, Carinthia"".
+"
+440 ,1,1326 ,5 ,Carinthia,46.7500001,13.8333333,1,7 ,8,3," ""Ferienhotel Eichenhof, Carinthia"".
+"
+441 ,1,1247 ,3 ,Carinthia,46.7500001,13.8333333,1,7 ,7,3," ""Ferienhotel Eichenhof, Carinthia"".
+"
+442 ,2,1058 ,2 ,Carinthia,46.7500001,13.8333333,1,7 ,6,3," ""Hotel Ebner, Carinthia"".
+"
+443 ,2,1698 ,2 ,Carinthia,46.7500001,13.8333333,1,14 ,5,3," ""Hotel Ebner, Carinthia"".
+"
+444 ,4,2572 ,3 ,Carinthia,46.7500001,13.8333333,1,14 ,7,3," ""Aktivhotel Alte Muehle, Carinthia"".
+"
+445 ,1,499 ,4 ,Carinthia,46.7500001,13.8333333,1,7 ,5,6," ""H.Flat Kaernten"".
+"
+446 ,1,1049 ,6 ,Carinthia,46.7500001,13.8333333,1,7 ,6,6," ""H.Flat Kaernten"".
+"
+447 ,1,779 ,4 ,Carinthia,46.7500001,13.8333333,1,7 ,7,6," ""H.Flat Kaernten"".
+"
+448 ,1,1858 ,3 ,Carinthia,46.7500001,13.8333333,1,14 ,8,6," ""H.Flat Kaernten"".
+"
+449 ,2,1149 ,6 ,Carinthia,46.7500001,13.8333333,1,7 ,9,6," ""H.Flat Kaernten"".
+"
+450 ,2,559 ,3 ,Carinthia,46.7500001,13.8333333,1,7 ,5,6," ""H.Flat Kaernten"".
+"
+451 ,2,1073 ,2 ,Carinthia,46.7500001,13.8333333,1,14 ,6,6," ""H.Flat Kaernten"".
+"
+452 ,2,1358 ,3 ,Carinthia,46.7500001,13.8333333,1,14 ,7,6," ""H.Flat Kaernten"".
+"
+453 ,4,829 ,6 ,Carinthia,46.7500001,13.8333333,1,7 ,8,6," ""H.Flat Kaernten"".
+"
+454 ,4,579 ,4 ,Carinthia,46.7500001,13.8333333,1,7 ,9,6," ""H.Flat Kaernten"".
+"
+477 ,1,898 ,2 ,Styria,47.2500001,15.1666665,1,14 ,6,2," ""Gasthof Mayer, Styria"".
+"
+478 ,2,478 ,3 ,Styria,47.2500001,15.1666665,1,7 ,5,2," ""Gasthof Mayer, Styria"".
+"
+479 ,1,2372 ,3 ,Styria,47.2500001,15.1666665,1,14 ,7,3," ""Hotel Berghof, Styria"".
+"
+480 ,1,1227 ,4 ,Styria,47.2500001,15.1666665,1,7 ,8,3," ""Hotel Berghof, Styria"".
+"
+481 ,4,1578 ,2 ,Styria,47.2500001,15.1666665,1,14 ,9,3," ""Hotel Berghof, Styria"".
+"
+482 ,1,847 ,3 ,Styria,47.2500001,15.1666665,1,7 ,5,4," ""Hotel Haeuserl am Wald, Styria"".
+"
+483 ,2,678 ,2 ,Styria,47.2500001,15.1666665,1,7 ,6,4," ""Hotel Haeuserl am Wald, Styria"".
+"
+484 ,1,379 ,2 ,Styria,47.2500001,15.1666665,1,7 ,7,6," ""H.Flat Styria"".
+"
+485 ,1,369 ,4 ,Styria,47.2500001,15.1666665,1,7 ,8,6," ""H.Flat Styria"".
+"
+486 ,1,708 ,2 ,Styria,47.2500001,15.1666665,1,14 ,9,6," ""H.Flat Styria"".
+"
+487 ,2,569 ,6 ,Styria,47.2500001,15.1666665,1,7 ,8,6," ""H.Flat Styria"".
+"
+488 ,2,379 ,4 ,Styria,47.2500001,15.1666665,1,7 ,7,6," ""H.Flat Styria"".
+"
+489 ,2,429 ,4 ,Styria,47.2500001,15.1666665,1,7 ,6,6," ""H.Flat Styria"".
+"
+490 ,2,348 ,2 ,Styria,47.2500001,15.1666665,1,14 ,5,6," ""H.Flat Styria"".
+"
+491 ,4,909 ,4 ,Styria,47.2500001,15.1666665,1,7 ,7,6," ""H.Flat Styria"".
+"
+492 ,1,548 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,5,1," ""Gasthof Edelweiss, Tyrol"".
+"
+493 ,1,685 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,6,1," ""Gasthof Edelweiss, Tyrol"".
+"
+494 ,1,897 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,7,2," ""Gasthof Post, Tyrol"".
+"
+495 ,1,2322 ,3 ,Tyrol,47.223193,11.5261028,1,14 ,8,2," ""Pension Tannenhof, Tyrol"".
+"
+496 ,2,698 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,9,2," ""Gasthof Sonne, Tyrol"".
+"
+497 ,1,798 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,8,3," ""Gasthof Panorama, Tyrol"".
+"
+498 ,1,1808 ,2 ,Tyrol,47.223193,11.5261028,1,14 ,7,3," ""Gasthof Panorama, Tyrol"".
+"
+499 ,2,1972 ,3 ,Tyrol,47.223193,11.5261028,1,14 ,6,3," ""Ferienhotel Neuwirt, Tyrol"".
+"
+500 ,4,818 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,6,3," ""Ferienhotel Neuwirt, Tyrol"".
+"
+501 ,1,738 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,5,4," ""Hotel Wastlhof, Tyrol"".
+"
+502 ,1,3267 ,4 ,Tyrol,47.223193,11.5261028,1,14 ,7,4," ""Hotel Klausen, Tyrol"".
+"
+503 ,2,1571 ,5 ,Tyrol,47.223193,11.5261028,1,7 ,8,4," ""Hotel Unterwirt, Tyrol"".
+"
+504 ,1,1198 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,9,5," ""Hotel Alpenresidence, Tyrol"".
+"
+505 ,2,1847 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,7,5," ""Hotel Alpenresidence, Tyrol"".
+"
+506 ,4,3098 ,3 ,Tyrol,47.223193,11.5261028,1,14 ,8,5," ""Aparthotel Hopfgarten"".
+"
+507 ,1,449 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,5,6," ""H.Flat Tyrol"".
+"
+508 ,1,654 ,5 ,Tyrol,47.223193,11.5261028,1,7 ,6,6," ""H.Flat Tyrol"".
+"
+509 ,1,539 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,7,6," ""H.Flat Tyrol"".
+"
+510 ,1,609 ,5 ,Tyrol,47.223193,11.5261028,1,7 ,8,6," ""H.Flat Tyrol"".
+"
+511 ,1,484 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,9,6," ""H.Flat Tyrol"".
+"
+512 ,1,789 ,6 ,Tyrol,47.223193,11.5261028,1,7 ,8,6," ""H.Flat Tyrol"".
+"
+513 ,1,838 ,3 ,Tyrol,47.223193,11.5261028,1,14 ,7,6," ""H.Flat Tyrol"".
+"
+514 ,1,728 ,2 ,Tyrol,47.223193,11.5261028,1,14 ,6,6," ""H.Flat Tyrol"".
+"
+515 ,2,729 ,5 ,Tyrol,47.223193,11.5261028,1,7 ,5,6," ""H.Flat Tyrol"".
+"
+516 ,2,849 ,6 ,Tyrol,47.223193,11.5261028,1,7 ,6,6," ""H.Flat Tyrol"".
+"
+517 ,2,494 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,7,6," ""H.Flat Tyrol"".
+"
+518 ,2,599 ,5 ,Tyrol,47.223193,11.5261028,1,7 ,8,6," ""H.Flat Tyrol"".
+"
+519 ,2,688 ,2 ,Tyrol,47.223193,11.5261028,1,14 ,9,6," ""H.Flat Tyrol"".
+"
+520 ,4,789 ,7 ,Tyrol,47.223193,11.5261028,1,7 ,6,6," ""H.Flat Tyrol"".
+"
+521 ,4,1538 ,4 ,Tyrol,47.223193,11.5261028,1,14 ,7,6," ""H.Flat Tyrol"".
+"
+522 ,0,2518 ,2 ,Algarve,37.2454248,-8.15092517307923,2,14 ,5,2," ""Anlage Aldeia, Algarve"".
+"
+523 ,0,2562 ,3 ,Algarve,37.2454248,-8.15092517307923,2,14 ,6,2," ""Anlage Aldeia, Algarve"".
+"
+524 ,4,2371 ,3 ,Algarve,37.2454248,-8.15092517307923,2,7 ,7,2," ""Anlage Aldeia, Algarve"".
+"
+525 ,0,3271 ,3 ,Algarve,37.2454248,-8.15092517307923,2,21 ,9,3," ""Hotel Tropico, Algarve"".
+"
+526 ,0,3398 ,2 ,Algarve,37.2454248,-8.15092517307923,2,14 ,8,3," ""Hotel Tropico, Algarve"".
+"
+527 ,0,2998 ,2 ,Algarve,37.2454248,-8.15092517307923,2,14 ,6,3," ""Hotel Tropico, Algarve"".
+"
+528 ,0,4253 ,4 ,Algarve,37.2454248,-8.15092517307923,2,7 ,7,3," ""Hotel California, Algarve"".
+"
+529 ,0,3758 ,2 ,Algarve,37.2454248,-8.15092517307923,2,14 ,9,3," ""Hotel California, Algarve"".
+"
+530 ,4,4885 ,3 ,Algarve,37.2454248,-8.15092517307923,2,14 ,6,3," ""Hotel California, Algarve"".
+"
+531 ,4,3958 ,2 ,Algarve,37.2454248,-8.15092517307923,2,21 ,5,3," ""Hotel California, Algarve"".
+"
+532 ,4,2678 ,2 ,Algarve,37.2454248,-8.15092517307923,2,7 ,7,3," ""Eurotel Altura, Algarve"".
+"
+533 ,2,3078 ,2 ,Algarve,37.2454248,-8.15092517307923,2,14 ,4,3," ""Eurotel Altura, Algarve"".
+"
+534 ,2,2158 ,2 ,Algarve,37.2454248,-8.15092517307923,2,7 ,10,3," ""Eurotel Altura, Algarve"".
+"
+535 ,0,3642 ,3 ,Algarve,37.2454248,-8.15092517307923,2,14 ,7,4," ""Hotel Neptuno, Algarve"".
+"
+536 ,4,4533 ,4 ,Algarve,37.2454248,-8.15092517307923,2,14 ,8,4," ""Hotel Neptuno, Algarve"".
+"
+537 ,0,3518 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,6,2," ""Anlage Canico, Madeira"".
+"
+538 ,0,3440 ,3 ,Madeira,32.75175465,-16.9817465612925,2,14 ,7,2," ""Anlage Canico, Madeira"".
+"
+539 ,0,4126 ,3 ,Madeira,32.75175465,-16.9817465612925,2,21 ,8,2," ""Anlage Canico, Madeira"".
+"
+540 ,4,3518 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,9,2," ""Anlage Canico, Madeira"".
+"
+541 ,0,3238 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,6,3," ""Hotel Mimosa, Madeira"".
+"
+542 ,0,4091 ,4 ,Madeira,32.75175465,-16.9817465612925,2,7 ,7,3," ""Hotel Mimosa, Madeira"".
+"
+543 ,0,4452 ,3 ,Madeira,32.75175465,-16.9817465612925,2,21 ,9,3," ""Hotel Mimosa, Madeira"".
+"
+544 ,4,3598 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,8,3," ""Hotel Orca Praia, Madeira"".
+"
+545 ,4,4438 ,2 ,Madeira,32.75175465,-16.9817465612925,2,21 ,9,3," ""Hotel Orca Praia, Madeira"".
+"
+546 ,2,4318 ,2 ,Madeira,32.75175465,-16.9817465612925,2,21 ,5,3," ""Hotel Orca Praia, Madeira"".
+"
+547 ,2,3318 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,10,3," ""Hotel Orca Praia, Madeira"".
+"
+548 ,0,2922 ,3 ,Madeira,32.75175465,-16.9817465612925,2,7 ,7,4," ""Hotel Raga, Madeira"".
+"
+549 ,0,5225 ,4 ,Madeira,32.75175465,-16.9817465612925,2,14 ,8,4," ""Hotel Raga, Madeira"".
+"
+550 ,4,3989 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,6,4," ""Hotel Oasis Atlantic, Madeira"".
+"
+551 ,4,3897 ,3 ,Madeira,32.75175465,-16.9817465612925,2,7 ,7,4," ""Hotel Oasis Atlantic, Madeira"".
+"
+552 ,2,469 ,4 ,Sweden,59.6749712,14.5208584,1,7 ,6,6," ""H.Flat Sweden"".
+"
+553 ,2,799 ,6 ,Sweden,59.6749712,14.5208584,1,7 ,7,6," ""H.Flat Sweden"".
+"
+554 ,2,519 ,5 ,Sweden,59.6749712,14.5208584,1,7 ,8,6," ""H.Flat Sweden"".
+"
+555 ,2,539 ,4 ,Sweden,59.6749712,14.5208584,1,7 ,9,6," ""H.Flat Sweden"".
+"
+556 ,2,989 ,6 ,Sweden,59.6749712,14.5208584,1,7 ,10,6," ""H.Flat Sweden"".
+"
+557 ,2,649 ,6 ,Sweden,59.6749712,14.5208584,1,7 ,8,6," ""H.Flat Sweden"".
+"
+558 ,2,779 ,4 ,Sweden,59.6749712,14.5208584,1,7 ,7,6," ""H.Flat Sweden"".
+"
+559 ,2,1578 ,4 ,Sweden,59.6749712,14.5208584,1,14 ,6,6," ""H.Flat Sweden"".
+"
+560 ,2,1538 ,4 ,Sweden,59.6749712,14.5208584,1,14 ,7,6," ""H.Flat Sweden"".
+"
+561 ,2,1318 ,4 ,Sweden,59.6749712,14.5208584,1,14 ,8,6," ""H.Flat Sweden"".
+"
+562 ,2,1178 ,6 ,Sweden,59.6749712,14.5208584,1,14 ,9,6," ""H.Flat Sweden"".
+"
+563 ,1,639 ,6 ,Sweden,59.6749712,14.5208584,1,7 ,6,6," ""H.Flat Sweden"".
+"
+564 ,1,799 ,6 ,Sweden,59.6749712,14.5208584,1,7 ,7,6," ""H.Flat Sweden"".
+"
+565 ,1,789 ,4 ,Sweden,59.6749712,14.5208584,1,7 ,8,6," ""H.Flat Sweden"".
+"
+566 ,1,938 ,4 ,Sweden,59.6749712,14.5208584,1,14 ,9,6," ""H.Flat Sweden"".
+"
+567 ,1,764 ,3 ,Alps,45.9531685,9.23790745975765,1,7 ,5,6," ""H.Flat Switzerland"".
+"
+568 ,1,494 ,2 ,Alps,45.9531685,9.23790745975765,1,7 ,6,6," ""H.Flat Switzerland"".
+"
+569 ,1,989 ,6 ,Alps,45.9531685,9.23790745975765,1,7 ,7,6," ""H.Flat Switzerland"".
+"
+570 ,1,799 ,4 ,Alps,45.9531685,9.23790745975765,1,7 ,8,6," ""H.Flat Switzerland"".
+"
+571 ,1,839 ,2 ,Alps,45.9531685,9.23790745975765,1,7 ,9,6," ""H.Flat Switzerland"".
+"
+572 ,1,799 ,3 ,Alps,45.9531685,9.23790745975765,1,7 ,6,6," ""H.Flat Switzerland"".
+"
+573 ,1,779 ,6 ,Alps,45.9531685,9.23790745975765,1,7 ,7,6," ""H.Flat Switzerland"".
+"
+574 ,1,529 ,4 ,Alps,45.9531685,9.23790745975765,1,7 ,8,6," ""H.Flat Switzerland"".
+"
+575 ,1,858 ,3 ,Alps,45.9531685,9.23790745975765,1,14 ,9,6," ""H.Flat Switzerland"".
+"
+576 ,1,1303 ,4 ,Alps,45.9531685,9.23790745975765,1,14 ,6,6," ""H.Flat Switzerland"".
+"
+577 ,1,738 ,6 ,Alps,45.9531685,9.23790745975765,1,14 ,5,6," ""H.Flat Switzerland"".
+"
+578 ,1,908 ,2 ,Alps,45.9531685,9.23790745975765,1,14 ,7,6," ""H.Flat Switzerland"".
+"
+579 ,2,729 ,3 ,Alps,45.9531685,9.23790745975765,1,7 ,5,6," ""H.Flat Switzerland"".
+"
+580 ,2,779 ,6 ,Alps,45.9531685,9.23790745975765,1,7 ,6,6," ""H.Flat Switzerland"".
+"
+581 ,2,519 ,4 ,Alps,45.9531685,9.23790745975765,1,7 ,7,6," ""H.Flat Switzerland"".
+"
+582 ,2,1184 ,4 ,Alps,45.9531685,9.23790745975765,1,7 ,8,6," ""H.Flat Switzerland"".
+"
+583 ,2,629 ,2 ,Alps,45.9531685,9.23790745975765,1,7 ,9,6," ""H.Flat Switzerland"".
+"
+584 ,2,858 ,3 ,Alps,45.9531685,9.23790745975765,1,14 ,6,6," ""H.Flat Switzerland"".
+"
+585 ,2,1298 ,4 ,Alps,45.9531685,9.23790745975765,1,14 ,7,6," ""H.Flat Switzerland"".
+"
+586 ,2,1958 ,6 ,Alps,45.9531685,9.23790745975765,1,14 ,8,6," ""H.Flat Switzerland"".
+"
+587 ,0,1317 ,4 ,CostaBlanca,41.5612454,2.5043463,1,7 ,8,2," ""Hotel Torre Dorada, Costa Blanca"".
+"
+588 ,0,2800 ,3 ,CostaBlanca,41.5612454,2.5043463,1,14 ,7,3," ""Hotel Galetamar, Costa Blanca"".
+"
+589 ,0,1058 ,2 ,CostaBlanca,41.5612454,2.5043463,1,7 ,8,4," ""Hotel Roca Esmeralda, Costa Blanca"".
+"
+590 ,0,3222 ,3 ,CostaBlanca,41.5612454,2.5043463,1,14 ,7,4," ""Hotel Roca Esmeralda, Costa Blanca"".
+"
+591 ,2,1014 ,10 ,CostaBlanca,41.5612454,2.5043463,1,7 ,5,6," ""H.Flat Costa Blanca"".
+"
+592 ,2,539 ,4 ,CostaBlanca,41.5612454,2.5043463,1,14 ,6,6," ""H.Flat Costa Blanca"".
+"
+593 ,4,1039 ,6 ,CostaBlanca,41.5612454,2.5043463,1,7 ,7,6," ""H.Flat Costa Blanca"".
+"
+594 ,4,678 ,4 ,CostaBlanca,41.5612454,2.5043463,1,14 ,9,6," ""H.Flat Costa Blanca"".
+"
+595 ,0,1039 ,8 ,CostaBlanca,41.5612454,2.5043463,1,7 ,6,6," ""H.Flat Costa Blanca"".
+"
+596 ,0,2324 ,12 ,CostaBlanca,41.5612454,2.5043463,1,7 ,7,6," ""H.Flat Costa Blanca"".
+"
+597 ,0,1229 ,2 ,CostaBlanca,41.5612454,2.5043463,1,7 ,8,6," ""H.Flat Costa Blanca"".
+"
+598 ,0,789 ,5 ,CostaBlanca,41.5612454,2.5043463,1,7 ,9,6," ""H.Flat Costa Blanca"".
+"
+599 ,0,649 ,3 ,CostaBlanca,41.5612454,2.5043463,1,7 ,7,6," ""H.Flat Costa Blanca"".
+"
+600 ,0,1259 ,3 ,CostaBlanca,41.5612454,2.5043463,1,7 ,8,6," ""H.Flat Costa Blanca"".
+"
+601 ,0,1038 ,4 ,CostaBlanca,41.5612454,2.5043463,1,14 ,6,6," ""H.Flat Costa Blanca"".
+"
+602 ,0,1798 ,4 ,CostaBlanca,41.5612454,2.5043463,1,14 ,7,6," ""H.Flat Costa Blanca"".
+"
+603 ,0,2038 ,8 ,CostaBlanca,41.5612454,2.5043463,1,14 ,9,6," ""H.Flat Costa Blanca"".
+"
+619 ,0,3528 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,5,3," ""Hotel Oliva Beach, Fuerteventura"".
+"
+620 ,0,4402 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,6,3," ""Hotel Oliva Beach, Fuerteventura"".
+"
+621 ,0,6357 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,21 ,7,3," ""Hotel Oliva Beach, Fuerteventura"".
+"
+622 ,0,3417 ,4 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,8,3," ""Appartm. Rio Tropical, Fuerteventura"".
+"
+623 ,4,2598 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,9,3," ""Appartm. Rio Tropical, Fuerteventura"".
+"
+624 ,4,2252 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,7 ,7,3," ""Appartm. Rio Tropical, Fuerteventura"".
+"
+625 ,4,3678 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,8,3," ""Hotel Crystal Beach, Fuerteventura"".
+"
+626 ,2,3578 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,6,3," ""Hotel Crystal Beach, Fuerteventura"".
+"
+627 ,0,7161 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,21 ,6,4," ""Hotel Rio Ventura, Fuerteventura"".
+"
+628 ,0,5709 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,7,4," ""Hotel Rio Ventura, Fuerteventura"".
+"
+629 ,0,6369 ,4 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,8,4," ""Hotel Rio Ventura, Fuerteventura"".
+"
+630 ,0,3188 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,7 ,6,4," ""Hotel Rio Ventura, Fuerteventura"".
+"
+631 ,4,3428 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,9,4," ""Hotel Rio Maxarota, Fuerteventura"".
+"
+632 ,4,4602 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,7,4," ""Hotel Rio Maxarota, Fuerteventura"".
+"
+633 ,2,3188 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,5,4," ""Hotel Rio Maxarota, Fuerteventura"".
+"
+634 ,0,2412 ,3 ,GranCanaria,28.0472601,-15.4239184,2,14 ,5,2," ""Studios Puerto Plata, Gran Canaria"".
+"
+635 ,0,3125 ,3 ,GranCanaria,28.0472601,-15.4239184,2,21 ,7,2," ""Studios Puerto Plata, Gran Canaria"".
+"
+636 ,0,2378 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,9,2," ""Studios Brisamar, Gran Canaria"".
+"
+637 ,4,3177 ,4 ,GranCanaria,28.0472601,-15.4239184,2,14 ,8,2," ""Studios Brisamar, Gran Canaria"".
+"
+638 ,0,2788 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,5,3," ""Hotel Riosol, Gran Canaria"".
+"
+639 ,0,4100 ,3 ,GranCanaria,28.0472601,-15.4239184,2,21 ,6,3," ""Hotel Riosol, Gran Canaria"".
+"
+640 ,0,2723 ,3 ,GranCanaria,28.0472601,-15.4239184,2,7 ,7,3," ""Hotel Caserio, Gran Canaria"".
+"
+641 ,4,4261 ,3 ,GranCanaria,28.0472601,-15.4239184,2,14 ,8,3," ""IFA Beach Hotel, Gran Canaria"".
+"
+642 ,4,3778 ,2 ,GranCanaria,28.0472601,-15.4239184,2,21 ,9,3," ""IFA Beach Hotel, Gran Canaria"".
+"
+643 ,2,2508 ,2 ,GranCanaria,28.0472601,-15.4239184,2,7 ,8,3," ""IFA Beach Hotel, Gran Canaria"".
+"
+644 ,0,3258 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,6,4," ""Hotel Las Margaritas, Gran Canaria"".
+"
+645 ,0,4252 ,3 ,GranCanaria,28.0472601,-15.4239184,2,14 ,7,4," ""Hotel Las Margaritas, Gran Canaria"".
+"
+646 ,0,3498 ,2 ,GranCanaria,28.0472601,-15.4239184,2,21 ,9,4," ""Hotel Caserio, Gran Canaria"".
+"
+647 ,4,2848 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,5,4," ""Hotel Caserio, Gran Canaria"".
+"
+648 ,4,3551 ,3 ,GranCanaria,28.0472601,-15.4239184,2,14 ,8,4," ""Hotel Caserio, Gran Canaria"".
+"
+649 ,0,2078 ,2 ,Ibiza,38.9835256,1.4119395,2,14 ,6,2," ""Pension Central, Ibiza"".
+"
+650 ,0,2498 ,2 ,Ibiza,38.9835256,1.4119395,2,21 ,9,2," ""Pension Central, Ibiza"".
+"
+651 ,0,2427 ,3 ,Ibiza,38.9835256,1.4119395,2,14 ,7,2," ""Hotel Llevant, Ibiza"".
+"
+652 ,4,2852 ,4 ,Ibiza,38.9835256,1.4119395,2,14 ,8,2," ""Hotel Llevant, Ibiza"".
+"
+653 ,4,1995 ,3 ,Ibiza,38.9835256,1.4119395,2,7 ,7,2," ""Hotel Llevant, Ibiza"".
+"
+654 ,0,2798 ,2 ,Ibiza,38.9835256,1.4119395,2,14 ,6,3," ""Hotel Helios II, Ibiza"".
+"
+655 ,0,2878 ,2 ,Ibiza,38.9835256,1.4119395,2,14 ,7,3," ""Hotel Helios II, Ibiza"".
+"
+656 ,0,3258 ,2 ,Ibiza,38.9835256,1.4119395,2,21 ,5,3," ""Hotel Helios II, Ibiza"".
+"
+657 ,0,2343 ,3 ,Ibiza,38.9835256,1.4119395,2,7 ,8,3," ""Hotel Atlantic, Ibiza"".
+"
+658 ,0,3217 ,3 ,Ibiza,38.9835256,1.4119395,2,14 ,6,3," ""Hotel Atlantic, Ibiza"".
+"
+659 ,4,4832 ,4 ,Ibiza,38.9835256,1.4119395,2,14 ,7,3," ""Hotel Atlantic, Ibiza"".
+"
+660 ,4,3558 ,2 ,Ibiza,38.9835256,1.4119395,2,21 ,9,3," ""Hotel Atlantic, Ibiza"".
+"
+661 ,0,4398 ,2 ,Ibiza,38.9835256,1.4119395,2,14 ,6,4," ""Club La Mola, Ibiza"".
+"
+662 ,0,4958 ,2 ,Ibiza,38.9835256,1.4119395,2,14 ,7,4," ""Club La Mola, Ibiza"".
+"
+663 ,4,2090 ,3 ,Ibiza,38.9835256,1.4119395,2,7 ,8,4," ""Hotel Nereida, Ibiza"".
+"
+664 ,0,1558 ,2 ,Mallorca,39.6594496,2.986239,2,14 ,6,1," ""Pension Marina, Mallorca"".
+"
+665 ,0,2397 ,3 ,Mallorca,39.6594496,2.986239,2,14 ,7,1," ""Pension Marina, Mallorca"".
+"
+666 ,0,2481 ,2 ,Mallorca,39.6594496,2.986239,2,21 ,9,1," ""Pension El Golea, Mallorca"".
+"
+667 ,0,1718 ,2 ,Mallorca,39.6594496,2.986239,2,14 ,6,2," ""Pension Alcina, Mallorca"".
+"
+668 ,0,2410 ,4 ,Mallorca,39.6594496,2.986239,2,7 ,8,2," ""Pension Alcina, Mallorca"".
+"
+669 ,2,1285 ,3 ,Mallorca,39.6594496,2.986239,2,4 ,5,2," ""Hotel Manaus, Mallorca"".
+"
+670 ,4,1798 ,2 ,Mallorca,39.6594496,2.986239,2,14 ,6,2," ""Hotel Vaquer, Mallorca"".
+"
+671 ,1,1676 ,3 ,Mallorca,39.6594496,2.986239,2,7 ,9,2," ""Hotel Vaquer, Mallorca"".
+"
+672 ,0,2198 ,2 ,Mallorca,39.6594496,2.986239,2,14 ,6,3," ""Hotel Samu, Mallorca"".
+"
+673 ,0,3530 ,4 ,Mallorca,39.6594496,2.986239,2,14 ,7,3," ""Hotel Samu, Mallorca"".
+"
+674 ,0,1607 ,3 ,Mallorca,39.6594496,2.986239,2,4 ,8,3," ""Hotel Flamingo, Mallorca"".
+"
+675 ,0,3697 ,3 ,Mallorca,39.6594496,2.986239,2,14 ,7,3," ""Hotel Sol Lux, Mallorca"".
+"
+676 ,0,1858 ,2 ,Mallorca,39.6594496,2.986239,2,7 ,8,3," ""Hotel Sol Lux, Mallorca"".
+"
+677 ,0,2598 ,3 ,Mallorca,39.6594496,2.986239,2,14 ,9,3," ""Hotel Saturno, Mallorca"".
+"
+678 ,4,3058 ,2 ,Mallorca,39.6594496,2.986239,2,21 ,5,3," ""Hotel Saturno, Mallorca"".
+"
+679 ,0,1478 ,2 ,Mallorca,39.6594496,2.986239,2,4 ,6,4," ""Hotel Gran Fiesta, Mallorca"".
+"
+680 ,0,3644 ,4 ,Mallorca,39.6594496,2.986239,2,7 ,7,4," ""Anlage Lago Playa, Mallorca"".
+"
+681 ,0,3605 ,3 ,Mallorca,39.6594496,2.986239,2,14 ,8,4," ""Anlage Lago Playa, Mallorca"".
+"
+682 ,4,2678 ,2 ,Mallorca,39.6594496,2.986239,2,14 ,6,4," ""Lagotel-Club, Mallorca"".
+"
+683 ,4,1898 ,2 ,Mallorca,39.6594496,2.986239,2,7 ,9,4," ""Lagotel-Club, Mallorca"".
+"
+684 ,0,3417 ,3 ,Teneriffe,-27.455924,153.0464425,2,14 ,6,2," ""Studios Mare Verde, Teneriffe"".
+"
+685 ,0,2698 ,2 ,Teneriffe,-27.455924,153.0464425,2,21 ,9,2," ""Studios Mare Verde, Teneriffe"".
+"
+686 ,0,3837 ,3 ,Teneriffe,-27.455924,153.0464425,2,14 ,7,3," ""Appartm. Parque Royal, Teneriffe"".
+"
+687 ,0,3507 ,4 ,Teneriffe,-27.455924,153.0464425,2,14 ,8,3," ""Appartm. Parque Royal, Teneriffe"".
+"
+688 ,0,2278 ,2 ,Teneriffe,-27.455924,153.0464425,2,14 ,6,3," ""Appartm. Parque Royal, Teneriffe"".
+"
+689 ,0,3194 ,3 ,Teneriffe,-27.455924,153.0464425,2,14 ,8,3," ""Hotel Las Pyramides, Teneriffe"".
+"
+690 ,0,2858 ,2 ,Teneriffe,-27.455924,153.0464425,2,14 ,7,3," ""Hotel Las Pyramides, Teneriffe"".
+"
+691 ,0,2068 ,2 ,Teneriffe,-27.455924,153.0464425,2,7 ,5,3," ""Hotel Las Pyramides, Teneriffe"".
+"
+692 ,4,3278 ,2 ,Teneriffe,-27.455924,153.0464425,2,21 ,6,3," ""Hotel Internacional, Teneriffe"".
+"
+693 ,2,2178 ,2 ,Teneriffe,-27.455924,153.0464425,2,7 ,10,3," ""Hotel Internacional, Teneriffe"".
+"
+694 ,0,4011 ,3 ,Teneriffe,-27.455924,153.0464425,2,14 ,8,4," ""Hotel Sol, Teneriffe"".
+"
+695 ,0,4287 ,3 ,Teneriffe,-27.455924,153.0464425,2,14 ,7,4," ""Hotel Sol, Teneriffe"".
+"
+696 ,0,2488 ,2 ,Teneriffe,-27.455924,153.0464425,2,7 ,6,4," ""Hotel Sol, Teneriffe"".
+"
+697 ,4,5532 ,4 ,Teneriffe,-27.455924,153.0464425,2,14 ,8,4," ""Hotel Florida, Teneriffe"".
+"
+698 ,4,4810 ,3 ,Teneriffe,-27.455924,153.0464425,2,21 ,5,4," ""Hotel Florida, Teneriffe"".
+"
+744 ,0,2778 ,3 ,Tunisia,33.8439408,9.400138,2,14 ,7,2," ""Hotel Solymar, Tunisia"".
+"
+745 ,0,1778 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,6,2," ""Hotel Solymar, Tunisia"".
+"
+746 ,2,2058 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,5,2," ""Hotel-Club Ramses, Tunisia"".
+"
+747 ,4,2637 ,3 ,Tunisia,33.8439408,9.400138,2,14 ,9,2," ""Hotel-Club Ramses, Tunisia"".
+"
+748 ,0,4114 ,3 ,Tunisia,33.8439408,9.400138,2,14 ,6,3," ""Hotel Montazah, Tunisia"".
+"
+749 ,0,3464 ,4 ,Tunisia,33.8439408,9.400138,2,7 ,7,3," ""Hotel Montazah, Tunisia"".
+"
+750 ,0,3203 ,3 ,Tunisia,33.8439408,9.400138,2,14 ,8,3," ""Hotel-Club Nador, Tunisia"".
+"
+751 ,2,2768 ,2 ,Tunisia,33.8439408,9.400138,2,21 ,6,3," ""Hotel-Club Nador, Tunisia"".
+"
+752 ,2,2258 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,5,3," ""Hotel Aqua Viva, Tunisia"".
+"
+753 ,4,2964 ,3 ,Tunisia,33.8439408,9.400138,2,14 ,9,3," ""Hotel Aqua Viva, Tunisia"".
+"
+754 ,0,2808 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,6,4," ""Hotel Paradise, Tunisia"".
+"
+755 ,0,4773 ,4 ,Tunisia,33.8439408,9.400138,2,14 ,7,4," ""Hotel Paradise, Tunisia"".
+"
+756 ,2,1888 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,5,4," ""Hotel Royal Golf, Tunisia"".
+"
+757 ,0,2228 ,2 ,Tunisia,33.8439408,9.400138,2,7 ,6,4," ""Hotel Royal Golf, Tunisia"".
+"
+758 ,4,2898 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,8,4," ""Hotel Jockey Club, Tunisia"".
+"
+759 ,4,2879 ,3 ,Tunisia,33.8439408,9.400138,2,14 ,9,4," ""Hotel Jockey Club, Tunisia"".
+"
+760 ,0,3537 ,4 ,Balaton,46.8813884,17.834403811901,1,14 ,7,3," ""Hotel Marina, Balaton"".
+"
+761 ,0,2447 ,3 ,Balaton,46.8813884,17.834403811901,1,21 ,8,3," ""Hotel Marina, Balaton"".
+"
+762 ,0,2758 ,3 ,Balaton,46.8813884,17.834403811901,1,14 ,7,4," ""Hotel Helikon, Balaton"".
+"
+763 ,2,2758 ,2 ,Balaton,46.8813884,17.834403811901,1,14 ,6,4," ""Hotel Helikon, Balaton"".
+"
+764 ,0,879 ,9 ,Balaton,46.8813884,17.834403811901,1,7 ,6,6," ""H.Flat Balaton"".
+"
+765 ,0,759 ,5 ,Balaton,46.8813884,17.834403811901,1,7 ,7,6," ""H.Flat Balaton"".
+"
+766 ,0,798 ,2 ,Balaton,46.8813884,17.834403811901,1,14 ,8,6," ""H.Flat Balaton"".
+"
+767 ,2,658 ,3 ,Balaton,46.8813884,17.834403811901,1,14 ,5,6," ""H.Flat Balaton"".
+"
+768 ,2,279 ,2 ,Balaton,46.8813884,17.834403811901,1,7 ,6,6," ""H.Flat Balaton"".
+"
+769 ,4,1498 ,7 ,Balaton,46.8813884,17.834403811901,1,14 ,9,6," ""H.Flat Balaton"".
+"
+770 ,2,434 ,2 ,Belgium,50.6407351,4.66696,1,7 ,11,6," ""Ferienpark Atlantis, Belgium"".
+"
+771 ,2,434 ,3 ,Belgium,50.6407351,4.66696,1,7 ,12,6," ""Ferienpark Atlantis, Belgium"".
+"
+772 ,2,739 ,4 ,Belgium,50.6407351,4.66696,1,14 ,2,6," ""Ferienpark Atlantis, Belgium"".
+"
+773 ,4,434 ,2 ,Belgium,50.6407351,4.66696,1,7 ,11,6," ""Ferienpark Atlantis, Belgium"".
+"
+774 ,4,1068 ,4 ,Belgium,50.6407351,4.66696,1,14 ,3,6," ""Ferienpark Atlantis, Belgium"".
+"
+775 ,2,314 ,2 ,Belgium,50.6407351,4.66696,1,3 ,11,6," ""Ferienpark Atlantis, Belgium"".
+"
+776 ,4,394 ,6 ,Belgium,50.6407351,4.66696,1,4 ,1,6," ""Ferienpark Atlantis, Belgium"".
+"
+777 ,2,649 ,4 ,Belgium,50.6407351,4.66696,1,7 ,11,6," ""SunParks De Haan,Belgium"".
+"
+778 ,4,879 ,8 ,Belgium,50.6407351,4.66696,1,7 ,12,6," ""SunParks De Haan,Belgium"".
+"
+779 ,2,719 ,6 ,Belgium,50.6407351,4.66696,1,7 ,1,6," ""SunParks De Haan,Belgium"".
+"
+780 ,4,369 ,4 ,Belgium,50.6407351,4.66696,1,4 ,12,6," ""SunParks De Haan,Belgium"".
+"
+781 ,2,849 ,3 ,Belgium,50.6407351,4.66696,1,7 ,2,6," ""SunParks Groendyk, Belgium"".
+"
+782 ,4,649 ,6 ,Belgium,50.6407351,4.66696,1,7 ,11,6," ""SunParks Groendyk, Belgium"".
+"
+783 ,2,339 ,5 ,Belgium,50.6407351,4.66696,1,4 ,2,6," ""SunParks Groendyk, Belgium"".
+"
+784 ,2,1338 ,4 ,Belgium,50.6407351,4.66696,1,14 ,1,6," ""SunParks Rauwse Meren, Belgium"".
+"
+785 ,4,959 ,5 ,Belgium,50.6407351,4.66696,1,7 ,2,6," ""SunParks Rauwse Meren, Belgium"".
+"
+786 ,4,499 ,4 ,Belgium,50.6407351,4.66696,1,3 ,12,6," ""SunParks Rauwse Meren, Belgium"".
+"
+787 ,2,649 ,4 ,Belgium,50.6407351,4.66696,1,7 ,3,6," ""SunParks Vielsalm, Belgium"".
+"
+788 ,4,919 ,8 ,Belgium,50.6407351,4.66696,1,7 ,11,6," ""SunParks Vielsalm, Belgium"".
+"
+789 ,2,619 ,6 ,Belgium,50.6407351,4.66696,1,4 ,3,6," ""SunParks Vielsalm, Belgium"".
+"
+790 ,2,699 ,2 ,Denmark,55.670249,10.3333283,1,7 ,11,6," ""Ferienpark Lalandia, Denmark"".
+"
+791 ,2,699 ,3 ,Denmark,55.670249,10.3333283,1,7 ,12,6," ""Ferienpark Lalandia, Denmark"".
+"
+792 ,4,439 ,4 ,Denmark,55.670249,10.3333283,1,4 ,1,6," ""Ferienpark Lalandia, Denmark"".
+"
+793 ,2,639 ,4 ,Denmark,55.670249,10.3333283,1,7 ,2,6," ""Feriencenter Rodhus Klit, Denmark"".
+"
+794 ,4,639 ,5 ,Denmark,55.670249,10.3333283,1,7 ,3,6," ""Feriencenter Rodhus Klit, Denmark"".
+"
+795 ,4,1278 ,4 ,Denmark,55.670249,10.3333283,1,14 ,11,6," ""Feriencenter Rodhus Klit, Denmark"".
+"
+796 ,2,629 ,4 ,Denmark,55.670249,10.3333283,1,7 ,2,6," ""Feriencenter Vigso, Denmark"".
+"
+797 ,4,629 ,6 ,Denmark,55.670249,10.3333283,1,7 ,1,6," ""Feriencenter Vigso, Denmark"".
+"
+798 ,2,509 ,4 ,Denmark,55.670249,10.3333283,1,7 ,3,6," ""Feriencenter Danland, Denmark"".
+"
+799 ,4,889 ,8 ,Denmark,55.670249,10.3333283,1,7 ,2,6," ""Feriencenter Danland, Denmark"".
+"
+800 ,2,579 ,2 ,Denmark,55.670249,10.3333283,1,7 ,1,6," ""H.Flat Ronbjerg Strand, Denmark"".
+"
+801 ,2,719 ,4 ,Denmark,55.670249,10.3333283,1,7 ,2,6," ""H.Flat Ronbjerg Strand, Denmark"".
+"
+802 ,4,1638 ,6 ,Denmark,55.670249,10.3333283,1,14 ,3,6," ""H.Flat Ronbjerg Strand, Denmark"".
+"
+803 ,2,849 ,4 ,Fano,43.8424173,13.0146632,1,7 ,1,6," ""Ferienpark Fano, Denmark"".
+"
+804 ,4,1089 ,6 ,Fano,43.8424173,13.0146632,1,7 ,3,6," ""Ferienpark Fano, Denmark"".
+"
+805 ,2,499 ,3 ,Holland,42.7876022,-86.1090827,1,7 ,11,6," ""Ferienpark Port Greve, Holland"".
+"
+806 ,2,529 ,4 ,Holland,42.7876022,-86.1090827,1,7 ,12,6," ""Ferienpark Port Greve, Holland"".
+"
+807 ,4,609 ,6 ,Holland,42.7876022,-86.1090827,1,7 ,2,6," ""Ferienpark Port Greve, Holland"".
+"
+808 ,2,354 ,4 ,Holland,42.7876022,-86.1090827,1,3 ,1,6," ""Ferienpark Port Greve, Holland"".
+"
+809 ,4,339 ,2 ,Holland,42.7876022,-86.1090827,1,4 ,11,6," ""Ferienpark Port Greve, Holland"".
+"
+810 ,4,538 ,2 ,Poland,52.0977181,19.0258159,1,7 ,1,3," ""Hotel Maurizius, Poland"".
+"
+811 ,3,822 ,3 ,Poland,52.0977181,19.0258159,1,7 ,2,3," ""Hotel Maurizius, Poland"".
+"
+812 ,2,1076 ,4 ,Poland,52.0977181,19.0258159,1,7 ,2,3," ""Hotel Maurizius, Poland"".
+"
+813 ,4,1602 ,3 ,Poland,52.0977181,19.0258159,1,14 ,1,2," ""Hotel Anna Maria, Poland"".
+"
+814 ,3,558 ,2 ,Poland,52.0977181,19.0258159,1,7 ,2,2," ""Hotel Anna Maria, Poland"".
+"
+815 ,2,807 ,4 ,Poland,52.0977181,19.0258159,1,7 ,3,2," ""Hotel Anna Maria, Poland"".
+"
+816 ,4,898 ,2 ,Poland,52.0977181,19.0258159,1,14 ,1,2," ""Hotel Karolinka, Poland"".
+"
+817 ,3,478 ,2 ,Poland,52.0977181,19.0258159,1,7 ,2,2," ""Hotel Karolinka, Poland"".
+"
+818 ,2,687 ,3 ,Poland,52.0977181,19.0258159,1,7 ,3,2," ""Hotel Karolinka, Poland"".
+"
+819 ,4,319 ,2 ,Poland,52.0977181,19.0258159,1,7 ,1,2," ""Hotel Ametyst, Poland"".
+"
+820 ,3,1962 ,4 ,Poland,52.0977181,19.0258159,1,14 ,2,2," ""Hotel Ametyst, Poland"".
+"
+821 ,2,329 ,2 ,Poland,52.0977181,19.0258159,1,7 ,2,2," ""Hotel Ametyst, Poland"".
+"
+822 ,4,987 ,3 ,Poland,52.0977181,19.0258159,1,7 ,2,2," ""Hotel Piecuch, Poland"".
+"
+823 ,3,638 ,2 ,Poland,52.0977181,19.0258159,1,7 ,3,2," ""Hotel Piecuch, Poland"".
+"
+824 ,2,1276 ,4 ,Poland,52.0977181,19.0258159,1,7 ,1,2," ""Hotel Piecuch, Poland"".
+"
+825 ,4,858 ,2 ,Slowakei,48.7411522,19.4528646,1,7 ,1,2," ""Hotel Banik, High Tatra"".
+"
+826 ,3,1647 ,3 ,Slowakei,48.7411522,19.4528646,1,7 ,2,2," ""Hotel Banik, High Tatra"".
+"
+827 ,4,1028 ,2 ,Slowakei,48.7411522,19.4528646,1,14 ,2,3," ""Hotel Fis, High Tatra"".
+"
+828 ,3,1098 ,2 ,Slowakei,48.7411522,19.4528646,1,7 ,3,3," ""Hotel Fis, High Tatra"".
+"
+829 ,3,1572 ,3 ,Slowakei,48.7411522,19.4528646,1,7 ,1,3," ""Hotel Patria, High Tatra"".
+"
+830 ,2,1738 ,2 ,Slowakei,48.7411522,19.4528646,1,7 ,2,3," ""Hotel Patria, High Tatra"".
+"
+831 ,4,3777 ,3 ,Slowakei,48.7411522,19.4528646,1,14 ,2,3," ""Hotel Panorama, High Tatra"".
+"
+832 ,3,1048 ,2 ,Slowakei,48.7411522,19.4528646,1,7 ,3,3," ""Hotel Panorama, High Tatra"".
+"
+833 ,3,598 ,2 ,Slowakei,48.7411522,19.4528646,1,7 ,1,3," ""Hotel Hutnik, High Tatra"".
+"
+834 ,4,1816 ,4 ,Slowakei,48.7411522,19.4528646,1,7 ,2,3," ""Hotel Hutnik, High Tatra"".
+"
+835 ,4,2097 ,3 ,Slowakei,48.7411522,19.4528646,1,7 ,2,3," ""Hotel Slovakia, High Tatra"".
+"
+836 ,2,1198 ,2 ,Slowakei,48.7411522,19.4528646,1,7 ,3,3," ""Hotel Slovakia, High Tatra"".
+"
+837 ,3,1257 ,3 ,Slowakei,48.7411522,19.4528646,1,14 ,3,2," ""Hotel Vesel, High Tatra"".
+"
+838 ,2,2036 ,4 ,Slowakei,48.7411522,19.4528646,1,7 ,2,2," ""Hotel Vesel, High Tatra"".
+"
+839 ,4,2334 ,6 ,Slowakei,48.7411522,19.4528646,1,14 ,2,2," ""Hotel Zornicka, High Tatra"".
+"
+840 ,3,1795 ,5 ,Slowakei,48.7411522,19.4528646,1,7 ,1,2," ""Hotel Zornicka, High Tatra"".
+"
+841 ,4,748 ,2 ,Slowakei,48.7411522,19.4528646,1,7 ,1,2," ""Hotel Sverma, High Tatra"".
+"
+842 ,3,1497 ,3 ,Slowakei,48.7411522,19.4528646,1,7 ,2,2," ""Hotel Sverma, High Tatra"".
+"
+843 ,3,1272 ,3 ,Slowakei,48.7411522,19.4528646,1,7 ,2,1," ""Pension Bjoernson, High Tatra"".
+"
+844 ,3,888 ,2 ,Slowakei,48.7411522,19.4528646,1,7 ,3,1," ""Pension Bjoernson, High Tatra"".
+"
+845 ,3,1152 ,4 ,Czechia,49.0583739,17.4602066169721,1,7 ,1,3," ""Hotel Horal, Giant Mountains"".
+"
+846 ,3,1414 ,3 ,Czechia,49.0583739,17.4602066169721,1,7 ,2,3," ""Hotel Horal, Giant Mountains"".
+"
+847 ,4,798 ,2 ,Czechia,49.0583739,17.4602066169721,1,14 ,3,3," ""Hotel Horal, Giant Mountains"".
+"
+848 ,3,698 ,2 ,Czechia,49.0583739,17.4602066169721,1,7 ,1,3," ""Hotel Montana, Giant Mountains"".
+"
+849 ,4,1372 ,3 ,Czechia,49.0583739,17.4602066169721,1,7 ,2,3," ""Hotel Montana, Giant Mountains"".
+"
+850 ,3,1737 ,3 ,Czechia,49.0583739,17.4602066169721,1,7 ,2,3," ""Hotel Arnika, Giant Mountains"".
+"
+851 ,3,998 ,2 ,Czechia,49.0583739,17.4602066169721,1,7 ,3,3," ""Hotel Arnika, Giant Mountains"".
+"
+852 ,2,1737 ,3 ,Czechia,49.0583739,17.4602066169721,1,14 ,1,3," ""Hotel Arnika, Giant Mountains"".
+"
+853 ,3,1596 ,4 ,Czechia,49.0583739,17.4602066169721,1,7 ,2,2," ""Hotel Energetik, Giant Mountains"".
+"
+854 ,4,638 ,2 ,Czechia,49.0583739,17.4602066169721,1,7 ,3,2," ""Hotel Energetik, Giant Mountains"".
+"
+855 ,3,897 ,3 ,Czechia,49.0583739,17.4602066169721,1,14 ,2,1," ""Hotel Central, Giant Mountains"".
+"
+856 ,4,458 ,2 ,Czechia,49.0583739,17.4602066169721,1,7 ,1,1," ""Hotel Central, Giant Mountains"".
+"
+857 ,3,698 ,2 ,Czechia,49.0583739,17.4602066169721,1,7 ,3,2," ""Berghotel Cubat, Giant Mountains"".
+"
+858 ,3,1047 ,3 ,Czechia,49.0583739,17.4602066169721,1,7 ,2,2," ""Berghotel Cubat, Giant Mountains"".
+"
+859 ,4,488 ,2 ,Czechia,49.0583739,17.4602066169721,1,7 ,1,1," ""Pension Trakce, Giant Mountains"".
+"
+860 ,2,1096 ,4 ,Czechia,49.0583739,17.4602066169721,1,7 ,2,1," ""Pension Trakce, Giant Mountains"".
+"
+861 ,3,458 ,2 ,Czechia,49.0583739,17.4602066169721,1,7 ,3,1," ""Pension Protez, Giant Mountains"".
+"
+862 ,2,1180 ,3 ,Czechia,49.0583739,17.4602066169721,1,14 ,2,1," ""Pension Protez, Giant Mountains"".
+"
+863 ,4,892 ,4 ,Czechia,49.0583739,17.4602066169721,1,7 ,1,1," ""Hotel Sirena, Giant Mountains"".
+"
+864 ,3,718 ,2 ,Czechia,49.0583739,17.4602066169721,1,7 ,2,1," ""Hotel Sirena, Giant Mountains"".
+"
+865 ,3,974 ,5 ,Czechia,49.0583739,17.4602066169721,1,7 ,3,6," ""H.Flat Giant Mountains"".
+"
+866 ,3,974 ,3 ,Czechia,49.0583739,17.4602066169721,1,7 ,2,6," ""H.Flat Giant Mountains"".
+"
+867 ,3,1108 ,4 ,Czechia,49.0583739,17.4602066169721,1,14 ,1,6," ""H.Flat Adlergebirge"".
+"
+868 ,4,579 ,6 ,Czechia,49.0583739,17.4602066169721,1,7 ,3,6," ""H.Flat Bohemian Forest"".
+"
+869 ,4,664 ,4 ,Czechia,49.0583739,17.4602066169721,1,7 ,2,6," ""H.Flat Bohemian Forest"".
+"
+870 ,4,4332 ,4 ,Allgaeu,47.7852787,11.6243293,1,7 ,12,5," ""Hofgut Kuernach, Allgaeu"".
+"
+871 ,3,1868 ,2 ,Allgaeu,47.7852787,11.6243293,1,7 ,1,5," ""Hofgut Kuernach, Allgaeu"".
+"
+872 ,2,2428 ,3 ,Allgaeu,47.7852787,11.6243293,1,7 ,2,5," ""Hofgut Kuernach, Allgaeu"".
+"
+873 ,4,1822 ,3 ,Allgaeu,47.7852787,11.6243293,1,14 ,3,3," ""Hotel Alpenblick, Allgaeu"".
+"
+874 ,3,1458 ,2 ,Allgaeu,47.7852787,11.6243293,1,7 ,2,3," ""Hotel Alpenblick, Allgaeu"".
+"
+875 ,3,1822 ,3 ,Allgaeu,47.7852787,11.6243293,1,7 ,1,3," ""Hotel Alpenblick, Allgaeu"".
+"
+876 ,4,2248 ,2 ,Allgaeu,47.7852787,11.6243293,1,7 ,12,5," ""Alpenhotel, Allgaeu"".
+"
+877 ,3,2447 ,3 ,Allgaeu,47.7852787,11.6243293,1,7 ,1,5," ""Alpenhotel, Allgaeu"".
+"
+878 ,2,2937 ,4 ,Allgaeu,47.7852787,11.6243293,1,7 ,2,5," ""Alpenhotel, Allgaeu"".
+"
+879 ,4,1058 ,3 ,Allgaeu,47.7852787,11.6243293,1,14 ,3,2," ""Gaestehaus Meier, Allgaeu"".
+"
+880 ,3,1587 ,4 ,Allgaeu,47.7852787,11.6243293,1,7 ,2,2," ""Gaestehaus Meier, Allgaeu"".
+"
+881 ,2,688 ,2 ,Allgaeu,47.7852787,11.6243293,1,7 ,1,2," ""Gaestehaus Meier, Allgaeu"".
+"
+882 ,3,530 ,4 ,Allgaeu,47.7852787,11.6243293,1,7 ,12,6," ""H.Flat Nadenberg, Allgaeu"".
+"
+883 ,4,645 ,8 ,Allgaeu,47.7852787,11.6243293,1,7 ,1,6," ""H.Flat Nadenberg, Allgaeu"".
+"
+884 ,3,745 ,6 ,Allgaeu,47.7852787,11.6243293,1,7 ,2,6," ""H.Flat Nadenberg, Allgaeu"".
+"
+885 ,3,1188 ,2 ,Allgaeu,47.7852787,11.6243293,1,14 ,3,6," ""H.Flat Oberallgaeu"".
+"
+886 ,2,879 ,4 ,Allgaeu,47.7852787,11.6243293,1,7 ,2,6," ""H.Flat Oberallgaeu"".
+"
+887 ,4,624 ,3 ,Allgaeu,47.7852787,11.6243293,1,7 ,1,6," ""H.Flat Oberallgaeu"".
+"
+888 ,3,459 ,3 ,Allgaeu,47.7852787,11.6243293,1,8 ,12,6," ""H.Flat Alpina, Allgaeu"".
+"
+889 ,3,424 ,4 ,Allgaeu,47.7852787,11.6243293,1,7 ,1,6," ""H.Flat Alpina, Allgaeu"".
+"
+890 ,2,1568 ,4 ,Allgaeu,47.7852787,11.6243293,1,14 ,2,6," ""H.Flat Alpina, Allgaeu"".
+"
+891 ,3,854 ,4 ,Allgaeu,47.7852787,11.6243293,1,7 ,3,6," ""H.Flat Reichenbach, Allgaeu"".
+"
+892 ,4,984 ,6 ,Allgaeu,47.7852787,11.6243293,1,7 ,2,6," ""H.Flat Reichenbach, Allgaeu"".
+"
+893 ,2,439 ,2 ,Allgaeu,47.7852787,11.6243293,1,7 ,1,6," ""H.Flat Sonnenhalde, Allgaeu"".
+"
+894 ,2,799 ,3 ,Allgaeu,47.7852787,11.6243293,1,10 ,12,6," ""H.Flat Sonnenhalde, Allgaeu"".
+"
+895 ,4,998 ,3 ,Bavaria,48.9467562,11.4038717,1,7 ,12,3," ""Sporthotel Rosenberger, Bavaria"".
+"
+896 ,3,798 ,2 ,Bavaria,48.9467562,11.4038717,1,7 ,1,3," ""Sporthotel Rosenberger, Bavaria"".
+"
+897 ,3,998 ,3 ,Bavaria,48.9467562,11.4038717,1,7 ,2,3," ""Sporthotel Rosenberger, Bavaria"".
+"
+898 ,4,1348 ,2 ,Bavaria,48.9467562,11.4038717,1,7 ,12,4," ""H.Flat Eichenbuehl, Allgaeu"".
+"
+899 ,3,1147 ,3 ,Bavaria,48.9467562,11.4038717,1,7 ,1,4," ""H.Flat Eichenbuehl, Allgaeu"".
+"
+900 ,2,3188 ,2 ,Bavaria,48.9467562,11.4038717,1,14 ,2,3," ""Hotel Bavaria, Bavaria"".
+"
+901 ,4,3448 ,2 ,Bavaria,48.9467562,11.4038717,1,10 ,12,3," ""Hotel Bavaria, Bavaria"".
+"
+902 ,4,1658 ,2 ,Bavaria,48.9467562,11.4038717,1,7 ,1,4," ""Residenz Ludwig, Bavaria"".
+"
+903 ,3,2072 ,3 ,Bavaria,48.9467562,11.4038717,1,7 ,2,4," ""Residenz Ludwig, Bavaria"".
+"
+904 ,4,2985 ,3 ,Bavaria,48.9467562,11.4038717,1,14 ,2,4," ""Hotel Seidlpark, Bavaria"".
+"
+905 ,3,1658 ,2 ,Bavaria,48.9467562,11.4038717,1,7 ,3,4," ""Hotel Seidlpark, Bavaria"".
+"
+906 ,4,745 ,3 ,Bavaria,48.9467562,11.4038717,1,7 ,1,2," ""Pension Laerchenhof, Bavaria"".
+"
+907 ,2,949 ,4 ,Bavaria,48.9467562,11.4038717,1,7 ,2,2," ""Pension Laerchenhof, Bavaria"".
+"
+908 ,4,684 ,2 ,Bavaria,48.9467562,11.4038717,1,7 ,1,6," ""H.Flat Chiemgau, Bavaria"".
+"
+909 ,3,1164 ,5 ,Bavaria,48.9467562,11.4038717,1,14 ,2,6," ""H.Flat Chiemgau, Bavaria"".
+"
+910 ,4,529 ,4 ,Bavaria,48.9467562,11.4038717,1,7 ,12,6," ""H.Flat Reiterhof, Bavaria"".
+"
+911 ,2,484 ,2 ,Bavaria,48.9467562,11.4038717,1,7 ,2,6," ""H.Flat Reiterhof, Bavaria"".
+"
+912 ,3,449 ,2 ,Bavaria,48.9467562,11.4038717,1,7 ,1,6," ""H.Flat Wildgatter, Bavaria"".
+"
+913 ,3,774 ,6 ,Bavaria,48.9467562,11.4038717,1,7 ,2,6," ""H.Flat Wildgatter, Bavaria"".
+"
+914 ,4,379 ,2 ,Bavaria,48.9467562,11.4038717,1,7 ,1,6," ""H.Flat Am Hochwald, Bavaria"".
+"
+915 ,2,459 ,3 ,Bavaria,48.9467562,11.4038717,1,14 ,2,6," ""H.Flat Am Hochwald, Bavaria"".
+"
+916 ,4,454 ,3 ,Bavaria,48.9467562,11.4038717,1,7 ,1,6," ""H.Flat Christopherhof, Bavaria"".
+"
+917 ,3,774 ,8 ,Bavaria,48.9467562,11.4038717,1,7 ,3,6," ""H.Flat Christopherhof, Bavaria"".
+"
+918 ,2,699 ,6 ,Bavaria,48.9467562,11.4038717,1,7 ,1,6," ""H.Flat Jaegerwiesen, Bavaria"".
+"
+919 ,4,1018 ,3 ,Bavaria,48.9467562,11.4038717,1,14 ,2,6," ""H.Flat Jaegerwiesen, Bavaria"".
+"
+920 ,2,1338 ,2 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,12,3," ""Hotel Lugsteinhof, Erz Gebirge"".
+"
+921 ,3,1472 ,3 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,1,3," ""Hotel Lugsteinhof, Erz Gebirge"".
+"
+922 ,2,1257 ,4 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,2,3," ""Hotel Am Fichtelberg, Erz Gebirge"".
+"
+923 ,3,1178 ,2 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,3,3," ""Hotel Am Fichtelberg, Erz Gebirge"".
+"
+924 ,4,1257 ,4 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,2,3," ""Sporthotel Oberwiesenthal, Erz Gebirge"".
+"
+925 ,3,1338 ,2 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,12,3," ""Sporthotel Oberwiesenthal, Erz Gebirge"".
+"
+926 ,2,1235 ,3 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,1,3," ""Rathaushotel, Erz Gebirge"".
+"
+927 ,4,1482 ,4 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,2,3," ""Rathaushotel, Erz Gebirge"".
+"
+928 ,2,838 ,2 ,ErzGebirge,50.5916915,13.0548630200455,1,14 ,3,3," ""Hotel Stephanshoehe, Erz Gebirge"".
+"
+929 ,2,1472 ,3 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,2,3," ""Hotel Stephanshoehe, Erz Gebirge"".
+"
+930 ,3,604 ,2 ,ErzGebirge,50.5916915,13.0548630200455,1,14 ,12,3," ""Hotel Vogtland, Erz Gebirge"".
+"
+931 ,2,1782 ,4 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,1,3," ""Hotel Vogtland, Erz Gebirge"".
+"
+932 ,4,2935 ,3 ,ErzGebirge,50.5916915,13.0548630200455,1,14 ,1,3," ""Kurhotel Am See, Erz Gebirge"".
+"
+933 ,2,838 ,2 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,3,3," ""Kurhotel Am See, Erz Gebirge"".
+"
+934 ,2,1257 ,4 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,2,3," ""Kurhotel Am See, Erz Gebirge"".
+"
+935 ,2,559 ,6 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,12,6," ""H.Flat Haus Vogtland, Erz Gebirge"".
+"
+936 ,2,549 ,7 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,1,6," ""H.Flat Haus Vogtland, Erz Gebirge"".
+"
+937 ,4,1098 ,5 ,ErzGebirge,50.5916915,13.0548630200455,1,14 ,3,6," ""H.Flat Haus Vogtland, Erz Gebirge"".
+"
+938 ,4,549 ,6 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,2,6," ""H.Flat Haus Vogtland, Erz Gebirge"".
+"
+939 ,3,549 ,4 ,ErzGebirge,50.5916915,13.0548630200455,1,7 ,2,6," ""H.Flat Haus Vogtland, Erz Gebirge"".
+"
+940 ,2,2128 ,2 ,Harz,51.72515265,10.694599785801,1,7 ,12,3," ""Aparthotel Bocksberg, Harz"".
+"
+941 ,2,1910 ,3 ,Harz,51.72515265,10.694599785801,1,7 ,1,3," ""Aparthotel Bocksberg, Harz"".
+"
+942 ,1,1648 ,2 ,Harz,51.72515265,10.694599785801,1,7 ,2,3," ""Aparthotel Bocksberg, Harz"".
+"
+943 ,3,2007 ,4 ,Harz,51.72515265,10.694599785801,1,7 ,3,3," ""Aparthotel Bocksberg, Harz"".
+"
+944 ,2,2368 ,2 ,Harz,51.72515265,10.694599785801,1,10 ,12,3," ""Travelhotel Waldfrieden, Harz"".
+"
+945 ,2,1485 ,3 ,Harz,51.72515265,10.694599785801,1,7 ,1,3," ""Travelhotel Waldfrieden, Harz"".
+"
+946 ,1,1298 ,2 ,Harz,51.72515265,10.694599785801,1,7 ,2,3," ""Travelhotel Waldfrieden, Harz"".
+"
+947 ,4,1782 ,4 ,Harz,51.72515265,10.694599785801,1,7 ,3,3," ""Travelhotel Waldfrieden, Harz"".
+"
+948 ,2,2007 ,4 ,Harz,51.72515265,10.694599785801,1,7 ,12,2," ""Hotel Harzquell, Harz"".
+"
+949 ,1,1168 ,2 ,Harz,51.72515265,10.694599785801,1,14 ,1,2," ""Hotel Harzquell, Harz"".
+"
+950 ,3,1460 ,3 ,Harz,51.72515265,10.694599785801,1,7 ,2,2," ""Hotel Harzquell, Harz"".
+"
+951 ,2,1522 ,3 ,Harz,51.72515265,10.694599785801,1,7 ,12,2," ""Hotel Fuerstenhoeh, Harz"".
+"
+952 ,2,1482 ,4 ,Harz,51.72515265,10.694599785801,1,7 ,1,2," ""Hotel Fuerstenhoeh, Harz"".
+"
+953 ,3,1235 ,3 ,Harz,51.72515265,10.694599785801,1,7 ,2,2," ""Hotel Fuerstenhoeh, Harz"".
+"
+954 ,1,599 ,3 ,Harz,51.72515265,10.694599785801,1,14 ,11,6," ""H.Flat Panoramic, Harz"".
+"
+955 ,2,679 ,5 ,Harz,51.72515265,10.694599785801,1,7 ,1,6," ""H.Flat Panoramic, Harz"".
+"
+956 ,2,419 ,2 ,Harz,51.72515265,10.694599785801,1,7 ,2,6," ""H.Flat Ferienpark, Harz"".
+"
+957 ,1,1114 ,4 ,Harz,51.72515265,10.694599785801,1,10 ,12,6," ""H.Flat Ferienpark, Harz"".
+"
+958 ,3,324 ,3 ,Harz,51.72515265,10.694599785801,1,7 ,12,6," ""H.Flat Teichtal, Harz"".
+"
+959 ,3,499 ,6 ,Harz,51.72515265,10.694599785801,1,7 ,2,6," ""H.Flat Teichtal, Harz"".
+"
+960 ,1,1227 ,4 ,BlackForest,29.683185,-98.1135839,1,7 ,12,2," ""Hotel Hirschen, Black Forest"".
+"
+961 ,4,748 ,2 ,BlackForest,29.683185,-98.1135839,1,7 ,1,2," ""Hotel Hirschen, Black Forest"".
+"
+962 ,3,1735 ,3 ,BlackForest,29.683185,-98.1135839,1,7 ,2,4," ""Treff-Hotel, Black Forest"".
+"
+963 ,1,2768 ,2 ,BlackForest,29.683185,-98.1135839,1,14 ,3,4," ""Treff-Hotel, Black Forest"".
+"
+964 ,2,1737 ,4 ,BlackForest,29.683185,-98.1135839,1,7 ,2,3," ""Berghotel Kandel, Black Forest"".
+"
+965 ,1,818 ,2 ,BlackForest,29.683185,-98.1135839,1,7 ,1,3," ""Berghotel Kandel, Black Forest"".
+"
+966 ,2,2322 ,3 ,BlackForest,29.683185,-98.1135839,1,10 ,12,3," ""Berghotel Mummelsee, Black Forest"".
+"
+967 ,3,1158 ,2 ,BlackForest,29.683185,-98.1135839,1,7 ,2,3," ""Berghotel Mummelsee, Black Forest"".
+"
+968 ,4,1008 ,2 ,BlackForest,29.683185,-98.1135839,1,7 ,1,3," ""Hotel Waldwinkel, Black Forest"".
+"
+969 ,2,1260 ,3 ,BlackForest,29.683185,-98.1135839,1,14 ,2,3," ""Hotel Waldwinkel, Black Forest"".
+"
+970 ,1,1257 ,4 ,BlackForest,29.683185,-98.1135839,1,7 ,3,2," ""Gasthof Hochkopfhaus, Black Forest"".
+"
+971 ,3,838 ,2 ,BlackForest,29.683185,-98.1135839,1,7 ,2,2," ""Gasthof Hochkopfhaus, Black Forest"".
+"
+972 ,2,897 ,3 ,BlackForest,29.683185,-98.1135839,1,7 ,1,2," ""Landgasthof Schuetzen, Black Forest"".
+"
+973 ,1,688 ,2 ,BlackForest,29.683185,-98.1135839,1,6 ,12,2," ""Landgasthof Schuetzen, Black Forest"".
+"
+974 ,4,454 ,4 ,BlackForest,29.683185,-98.1135839,1,7 ,1,6," ""H.Flat Ferienpark Black Forest"".
+"
+975 ,4,514 ,6 ,BlackForest,29.683185,-98.1135839,1,7 ,2,6," ""H.Flat Ferienpark Black Forest"".
+"
+976 ,2,459 ,2 ,BlackForest,29.683185,-98.1135839,1,7 ,3,6," ""H.Flat Schwarzwaldgrund"".
+"
+977 ,2,1068 ,4 ,BlackForest,29.683185,-98.1135839,1,14 ,2,6," ""H.Flat Schwarzwaldgrund"".
+"
+978 ,3,549 ,6 ,BlackForest,29.683185,-98.1135839,1,7 ,1,6," ""H.Flat Sonnenrain, Black Forest"".
+"
+979 ,2,679 ,2 ,BlackForest,29.683185,-98.1135839,1,7 ,12,6," ""H.Flat Schwarzwaldblick"".
+"
+980 ,2,599 ,4 ,BlackForest,29.683185,-98.1135839,1,7 ,1,6," ""H.Flat Schwarzwaldblick"".
+"
+981 ,3,464 ,3 ,BlackForest,29.683185,-98.1135839,1,7 ,2,6," ""H.Flat Schwiezer Hof, Black Forest"".
+"
+982 ,1,1033 ,5 ,BlackForest,29.683185,-98.1135839,1,14 ,3,6," ""H.Flat Schwiezer Hof, Black Forest"".
+"
+983 ,2,989 ,4 ,BlackForest,29.683185,-98.1135839,1,7 ,2,6," ""H.Flat Panorama-Blick, Black Forest"".
+"
+984 ,1,839 ,6 ,BlackForest,29.683185,-98.1135839,1,7 ,1,6," ""H.Flat Panorama-Blick, Black Forest"".
+"
+985 ,1,1672 ,3 ,Thuringia,50.7333163,11.0747905,1,7 ,12,3," ""Berghotel Friedrichroda, Thuringia"".
+"
+986 ,2,1178 ,2 ,Thuringia,50.7333163,11.0747905,1,7 ,1,3," ""Berghotel Friedrichroda, Thuringia"".
+"
+987 ,4,4092 ,4 ,Thuringia,50.7333163,11.0747905,1,14 ,2,3," ""Hotel Finsterbergen, Thuringia"".
+"
+988 ,1,1368 ,2 ,Thuringia,50.7333163,11.0747905,1,7 ,3,3," ""Hotel Finsterbergen, Thuringia"".
+"
+989 ,1,1104 ,3 ,Thuringia,50.7333163,11.0747905,1,7 ,2,2," ""Hotel Schoene Aussicht, Thuringia"".
+"
+990 ,3,883 ,2 ,Thuringia,50.7333163,11.0747905,1,7 ,1,2," ""Hotel Schoene Aussicht, Thuringia"".
+"
+991 ,2,688 ,2 ,Thuringia,50.7333163,11.0747905,1,7 ,12,3," ""Berghotel Oberhof, Thuringia"".
+"
+992 ,1,1773 ,3 ,Thuringia,50.7333163,11.0747905,1,14 ,11,3," ""Berghotel Oberhof, Thuringia"".
+"
+993 ,1,1138 ,2 ,Thuringia,50.7333163,11.0747905,1,7 ,1,4," ""Hotel Panorama, Thuringia"".
+"
+994 ,2,1647 ,3 ,Thuringia,50.7333163,11.0747905,1,7 ,3,4," ""Hotel Panorama, Thuringia"".
+"
+995 ,3,1977 ,4 ,Thuringia,50.7333163,11.0747905,1,7 ,2,4," ""Hotel Panorama, Thuringia"".
+"
+996 ,1,1294 ,2 ,Thuringia,50.7333163,11.0747905,1,14 ,1,2," ""Hotel Am Schuetzenberg, Thuringia"".
+"
+997 ,2,785 ,3 ,Thuringia,50.7333163,11.0747905,1,7 ,12,2," ""Hotel Am Schuetzenberg, Thuringia"".
+"
+998 ,4,987 ,4 ,Thuringia,50.7333163,11.0747905,1,7 ,2,2," ""Hotel Frankenwald, Thuringia"".
+"
+999 ,1,598 ,2 ,Thuringia,50.7333163,11.0747905,1,7 ,3,2," ""Hotel Frankenwald, Thuringia"".
+"
+1000 ,1,389 ,3 ,Thuringia,50.7333163,11.0747905,1,7 ,2,6," ""H.Flat Schmeheim, Thuringia"".
+"
+1001 ,1,389 ,4 ,Thuringia,50.7333163,11.0747905,1,7 ,3,6," ""H.Flat Schmeheim, Thuringia"".
+"
+1002 ,2,389 ,3 ,Thuringia,50.7333163,11.0747905,1,7 ,1,6," ""H.Flat Schmeheim, Thuringia"".
+"
+1003 ,4,924 ,4 ,Thuringia,50.7333163,11.0747905,1,9 ,12,6," ""H.Flat Schmeheim, Thuringia"".
+"
+1004 ,3,389 ,4 ,Thuringia,50.7333163,11.0747905,1,7 ,2,6," ""H.Flat Schmeheim, Thuringia"".
+"
+1005 ,1,855 ,4 ,Thuringia,50.7333163,11.0747905,1,14 ,3,6," ""H.Flat Ruppertus, Thuringia"".
+"
+1006 ,1,483 ,4 ,Thuringia,50.7333163,11.0747905,1,7 ,1,6," ""H.Flat Ruppertus, Thuringia"".
+"
+1007 ,2,774 ,4 ,Thuringia,50.7333163,11.0747905,1,9 ,12,6," ""H.Flat Ruppertus, Thuringia"".
+"
+1008 ,4,483 ,3 ,Thuringia,50.7333163,11.0747905,1,7 ,1,6," ""H.Flat Ruppertus, Thuringia"".
+"
+1009 ,3,483 ,4 ,Thuringia,50.7333163,11.0747905,1,7 ,2,6," ""H.Flat Ruppertus, Thuringia"".
+"
+1010 ,4,624 ,4 ,France,46.603354,1.8883335,1,7 ,12,6," ""H.Flat Maeva, France"".
+"
+1011 ,3,624 ,4 ,France,46.603354,1.8883335,1,7 ,1,6," ""H.Flat Maeva, France"".
+"
+1012 ,2,1624 ,5 ,France,46.603354,1.8883335,1,7 ,2,6," ""H.Flat Maeva, France"".
+"
+1013 ,4,844 ,4 ,France,46.603354,1.8883335,1,7 ,3,6," ""H.Flat Le Cervin, France"".
+"
+1014 ,3,1654 ,5 ,France,46.603354,1.8883335,1,7 ,2,6," ""H.Flat Le Cervin, France"".
+"
+1015 ,2,824 ,6 ,France,46.603354,1.8883335,1,7 ,1,6," ""H.Flat Le Cervin, France"".
+"
+1016 ,4,764 ,4 ,France,46.603354,1.8883335,1,7 ,12,6," ""H.Flat Bellecote, France"".
+"
+1017 ,3,3368 ,5 ,France,46.603354,1.8883335,1,14 ,1,6," ""H.Flat Bellecote, France"".
+"
+1018 ,2,1014 ,4 ,France,46.603354,1.8883335,1,7 ,2,6," ""H.Flat Bellecote, France"".
+"
+1019 ,4,1339 ,4 ,France,46.603354,1.8883335,1,7 ,3,6," ""H.Flat Cheval Blanc, France"".
+"
+1020 ,3,1094 ,5 ,France,46.603354,1.8883335,1,7 ,2,6," ""H.Flat Cheval Blanc, France"".
+"
+1021 ,2,1728 ,6 ,France,46.603354,1.8883335,1,14 ,1,6," ""H.Flat Cheval Blanc, France"".
+"
+1022 ,4,589 ,4 ,France,46.603354,1.8883335,1,7 ,12,6," ""H.Flat Les Olympiades, France"".
+"
+1023 ,3,589 ,4 ,France,46.603354,1.8883335,1,7 ,1,6," ""H.Flat Les Olympiades, France"".
+"
+1024 ,2,1574 ,4 ,France,46.603354,1.8883335,1,7 ,2,6," ""H.Flat Les Olympiades, France"".
+"
+1025 ,4,1744 ,6 ,France,46.603354,1.8883335,1,7 ,3,6," ""H.Flat Le Hameau, France"".
+"
+1026 ,3,1319 ,5 ,France,46.603354,1.8883335,1,7 ,2,6," ""H.Flat Le Hameau, France"".
+"
+1027 ,2,1478 ,4 ,France,46.603354,1.8883335,1,14 ,1,6," ""H.Flat Le Hameau, France"".
+"
+1028 ,4,629 ,4 ,France,46.603354,1.8883335,1,7 ,12,6," ""H.Flat Charmettoger, France"".
+"
+1029 ,3,799 ,4 ,France,46.603354,1.8883335,1,7 ,1,6," ""H.Flat Charmettoger, France"".
+"
+1030 ,2,1149 ,6 ,France,46.603354,1.8883335,1,7 ,2,6," ""H.Flat Charmettoger, France"".
+"
+1031 ,4,814 ,3 ,France,46.603354,1.8883335,1,7 ,3,6," ""H.Flat Orion, France"".
+"
+1032 ,4,2028 ,4 ,France,46.603354,1.8883335,1,14 ,2,6," ""H.Flat Orion, France"".
+"
+1033 ,3,919 ,4 ,France,46.603354,1.8883335,1,7 ,1,6," ""H.Flat Orion, France"".
+"
+1034 ,2,1164 ,6 ,France,46.603354,1.8883335,1,7 ,12,6," ""H.Flat Orion, France"".
+"
+1035 ,4,1397 ,3 ,Carinthia,46.7500001,13.8333333,1,10 ,12,2," ""Landhaus Almrausch, Carinthia"".
+"
+1036 ,3,658 ,2 ,Carinthia,46.7500001,13.8333333,1,7 ,1,2," ""Landhaus Almrausch, Carinthia"".
+"
+1037 ,2,1167 ,4 ,Carinthia,46.7500001,13.8333333,1,7 ,2,3," ""Pension Gerlitzen, Carinthia"".
+"
+1038 ,4,778 ,2 ,Carinthia,46.7500001,13.8333333,1,7 ,3,3," ""Pension Gerlitzen, Carinthia"".
+"
+1039 ,3,997 ,3 ,Carinthia,46.7500001,13.8333333,1,7 ,2,3," ""Hotel Oswald, Carinthia"".
+"
+1040 ,3,1448 ,2 ,Carinthia,46.7500001,13.8333333,1,14 ,1,3," ""Hotel Oswald, Carinthia"".
+"
+1041 ,2,1647 ,3 ,Carinthia,46.7500001,13.8333333,1,10 ,12,2," ""Hotel Alpenhof, Carinthia"".
+"
+1042 ,2,758 ,2 ,Carinthia,46.7500001,13.8333333,1,7 ,1,2," ""Hotel Alpenhof, Carinthia"".
+"
+1043 ,4,1617 ,4 ,Carinthia,46.7500001,13.8333333,1,7 ,2,3," ""Gasthof Post, Carinthia"".
+"
+1044 ,3,998 ,2 ,Carinthia,46.7500001,13.8333333,1,7 ,3,3," ""Gasthof Post, Carinthia"".
+"
+1045 ,4,678 ,2 ,Carinthia,46.7500001,13.8333333,1,7 ,2,3," ""Hotel Breznik, Carinthia"".
+"
+1046 ,3,847 ,3 ,Carinthia,46.7500001,13.8333333,1,7 ,1,3," ""Hotel Breznik, Carinthia"".
+"
+1047 ,3,779 ,2 ,Carinthia,46.7500001,13.8333333,1,10 ,12,6," ""H.Flat Austria, Carinthia"".
+"
+1048 ,4,1078 ,4 ,Carinthia,46.7500001,13.8333333,1,14 ,1,6," ""H.Flat Austria, Carinthia"".
+"
+1049 ,4,919 ,6 ,Carinthia,46.7500001,13.8333333,1,7 ,2,6," ""H.Flat Austria, Carinthia"".
+"
+1050 ,4,1049 ,8 ,Carinthia,46.7500001,13.8333333,1,7 ,2,6," ""H.Flat Austria, Carinthia"".
+"
+1051 ,4,794 ,3 ,Carinthia,46.7500001,13.8333333,1,7 ,2,6," ""H.Flat Kaerntnerhof, Carinthia"".
+"
+1052 ,2,554 ,2 ,Carinthia,46.7500001,13.8333333,1,7 ,3,6," ""H.Flat Kaerntnerhof, Carinthia"".
+"
+1053 ,3,669 ,3 ,Carinthia,46.7500001,13.8333333,1,7 ,2,6," ""H.Flat Rainer, Carinthia"".
+"
+1054 ,3,629 ,4 ,Carinthia,46.7500001,13.8333333,1,7 ,1,6," ""H.Flat Rainer, Carinthia"".
+"
+1055 ,4,1189 ,3 ,Carinthia,46.7500001,13.8333333,1,10 ,12,6," ""H.Flat Lindenhof, Carinthia"".
+"
+1056 ,2,569 ,3 ,Carinthia,46.7500001,13.8333333,1,7 ,1,6," ""H.Flat Lindenhof, Carinthia"".
+"
+1057 ,3,649 ,4 ,Carinthia,46.7500001,13.8333333,1,7 ,2,6," ""H.Flat Lindenhof, Carinthia"".
+"
+1058 ,3,499 ,2 ,Carinthia,46.7500001,13.8333333,1,7 ,3,6," ""H.Flat Rosenock, Carinthia"".
+"
+1059 ,2,879 ,4 ,Carinthia,46.7500001,13.8333333,1,7 ,2,6," ""H.Flat Rosenock, Carinthia"".
+"
+1070 ,3,1307 ,3 ,Tyrol,47.223193,11.5261028,1,14 ,3,3," ""Gasthof Jaegerwirt, Tyrol"".
+"
+1071 ,4,1227 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,2,3," ""Gasthof Jaegerwirt, Tyrol"".
+"
+1072 ,3,1218 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,1,4," ""Hotel Pachmair, Tyrol"".
+"
+1073 ,4,2238 ,2 ,Tyrol,47.223193,11.5261028,1,10 ,12,4," ""Hotel Pachmair, Tyrol"".
+"
+1074 ,3,1197 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,1,3," ""Ferienhotel Frieden, Tyrol"".
+"
+1075 ,2,1647 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,2,3," ""Ferienhotel Frieden, Tyrol"".
+"
+1076 ,3,733 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,3,3," ""Hotel Laerchenhof, Tyrol"".
+"
+1077 ,3,1238 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,2,3," ""Hotel Laerchenhof, Tyrol"".
+"
+1078 ,4,1508 ,2 ,Tyrol,47.223193,11.5261028,1,14 ,1,3," ""Hotel Laerchenhof, Tyrol"".
+"
+1079 ,3,1347 ,3 ,Tyrol,47.223193,11.5261028,1,10 ,12,3," ""Pension Post, Tyrol"".
+"
+1080 ,2,987 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,1,3," ""Pension Post, Tyrol"".
+"
+1081 ,3,1707 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,2,3," ""Gasthof Berghof, Tyrol"".
+"
+1082 ,4,1138 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,2,3," ""Gasthof Berghof, Tyrol"".
+"
+1083 ,3,1272 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,1,3," ""Wirtshaus Kofler, Tyrol"".
+"
+1084 ,2,1158 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,3,3," ""Wirtshaus Kofler, Tyrol"".
+"
+1085 ,3,1498 ,2 ,Tyrol,47.223193,11.5261028,1,14 ,2,3," ""Pension Alpenhof, Tyrol"".
+"
+1086 ,4,1047 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,1,3," ""Pension Alpenhof, Tyrol"".
+"
+1087 ,3,1958 ,2 ,Tyrol,47.223193,11.5261028,1,10 ,12,4," ""Hotel Alpenland, Tyrol"".
+"
+1088 ,2,978 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,1,4," ""Hotel Alpenland, Tyrol"".
+"
+1089 ,3,699 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,2,6," ""H.Flat Eberl, Tyrol"".
+"
+1090 ,3,889 ,5 ,Tyrol,47.223193,11.5261028,1,7 ,1,6," ""H.Flat Eberl, Tyrol"".
+"
+1091 ,4,749 ,6 ,Tyrol,47.223193,11.5261028,1,7 ,3,6," ""H.Flat Eberl, Tyrol"".
+"
+1092 ,3,1853 ,4 ,Tyrol,47.223193,11.5261028,1,14 ,2,6," ""H.Flat Zillertal, Tyrol"".
+"
+1093 ,4,844 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,1,6," ""H.Flat Zillertal, Tyrol"".
+"
+1094 ,2,2144 ,6 ,Tyrol,47.223193,11.5261028,1,10 ,12,6," ""H.Flat Zillertal, Tyrol"".
+"
+1095 ,3,729 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,2,6," ""H.Flat Alpenrose, Tyrol"".
+"
+1096 ,3,899 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,1,6," ""H.Flat Alpenrose, Tyrol"".
+"
+1097 ,4,1039 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,3,6," ""H.Flat Alpenrose, Tyrol"".
+"
+1098 ,3,2089 ,4 ,Tyrol,47.223193,11.5261028,1,10 ,12,6," ""H.Flat Raich, Tyrol"".
+"
+1099 ,4,979 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,1,6," ""H.Flat Raich, Tyrol"".
+"
+1100 ,3,1409 ,6 ,Tyrol,47.223193,11.5261028,1,7 ,2,6," ""H.Flat Raich, Tyrol"".
+"
+1101 ,2,539 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,3,6," ""H.Flat Wildauer, Tyrol"".
+"
+1102 ,3,1038 ,4 ,Tyrol,47.223193,11.5261028,1,14 ,2,6," ""H.Flat Wildauer, Tyrol"".
+"
+1103 ,4,809 ,6 ,Tyrol,47.223193,11.5261028,1,7 ,1,6," ""H.Flat Wildauer, Tyrol"".
+"
+1104 ,3,934 ,3 ,Tyrol,47.223193,11.5261028,1,10 ,12,6," ""H.Flat Auhof, Tyrol"".
+"
+1105 ,3,404 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,1,6," ""H.Flat Auhof, Tyrol"".
+"
+1106 ,2,864 ,6 ,Tyrol,47.223193,11.5261028,1,7 ,2,6," ""H.Flat Auhof, Tyrol"".
+"
+1107 ,3,619 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,1,6," ""H.Flat St.Jakob, Tyrol"".
+"
+1108 ,4,1008 ,2 ,Tyrol,47.223193,11.5261028,1,14 ,3,6," ""H.Flat St.Jakob, Tyrol"".
+"
+1134 ,3,1153 ,2 ,Salzkammergut,47.8035704,13.047335,1,14 ,1,3," ""Gaestehaus Berghof, Salkammergut"".
+"
+1135 ,3,1182 ,4 ,Salzkammergut,47.8035704,13.047335,1,7 ,2,3," ""Gaestehaus Berghof, Salkammergut"".
+"
+1136 ,4,985 ,3 ,Salzkammergut,47.8035704,13.047335,1,7 ,3,3," ""Gaestehaus Berghof, Salkammergut"".
+"
+1137 ,2,985 ,3 ,Salzkammergut,47.8035704,13.047335,1,7 ,2,3," ""Gaestehaus Berghof, Salkammergut"".
+"
+1138 ,3,758 ,2 ,Salzkammergut,47.8035704,13.047335,1,7 ,1,3," ""Gastehof Hubertus, Salzkammergut"".
+"
+1139 ,3,1368 ,2 ,Salzkammergut,47.8035704,13.047335,1,10 ,12,3," ""Gastehof Hubertus, Salzkammergut"".
+"
+1140 ,4,947 ,3 ,Salzkammergut,47.8035704,13.047335,1,7 ,1,3," ""Gastehof Hubertus, Salzkammergut"".
+"
+1141 ,2,1137 ,4 ,Salzkammergut,47.8035704,13.047335,1,7 ,2,3," ""Gastehof Hubertus, Salzkammergut"".
+"
+1142 ,3,1998 ,2 ,Salzkammergut,47.8035704,13.047335,1,7 ,3,4," ""Dorfhotel Gosau, Salzkammergut"".
+"
+1143 ,3,2648 ,2 ,Salzkammergut,47.8035704,13.047335,1,7 ,2,4," ""Dorfhotel Gosau, Salzkammergut"".
+"
+1144 ,4,2607 ,3 ,Salzkammergut,47.8035704,13.047335,1,14 ,1,4," ""Dorfhotel Gosau, Salzkammergut"".
+"
+1145 ,2,3498 ,2 ,Salzkammergut,47.8035704,13.047335,1,10 ,12,4," ""Dorfhotel Gosau, Salzkammergut"".
+"
+1146 ,3,2907 ,3 ,Salzkammergut,47.8035704,13.047335,1,7 ,1,4," ""Dorfhotel Heiligenblut, Salzkammergut"".
+"
+1147 ,3,2478 ,2 ,Salzkammergut,47.8035704,13.047335,1,7 ,2,4," ""Dorfhotel Heiligenblut, Salzkammergut"".
+"
+1148 ,4,2378 ,2 ,Salzkammergut,47.8035704,13.047335,1,7 ,3,4," ""Dorfhotel Heiligenblut, Salzkammergut"".
+"
+1149 ,2,8007 ,3 ,Salzkammergut,47.8035704,13.047335,1,14 ,2,4," ""Dorfhotel Heiligenblut, Salzkammergut"".
+"
+1150 ,3,243 ,2 ,Salzkammergut,47.8035704,13.047335,1,7 ,1,6," ""H.Flat Seebad, Salzkammergut"".
+"
+1151 ,3,1084 ,4 ,Salzkammergut,47.8035704,13.047335,1,10 ,12,6," ""H.Flat Seebad, Salzkammergut"".
+"
+1152 ,3,460 ,4 ,Salzkammergut,47.8035704,13.047335,1,7 ,1,6," ""H.Flat Seebad, Salzkammergut"".
+"
+1153 ,4,674 ,5 ,Salzkammergut,47.8035704,13.047335,1,7 ,2,6," ""H.Flat Seebad, Salzkammergut"".
+"
+1154 ,4,739 ,6 ,Salzkammergut,47.8035704,13.047335,1,7 ,3,6," ""H.Flat Seebad, Salzkammergut"".
+"
+1155 ,2,614 ,4 ,Salzkammergut,47.8035704,13.047335,1,7 ,2,6," ""H.Flat Seebad, Salzkammergut"".
+"
+1156 ,3,1098 ,2 ,Styria,47.2500001,15.1666665,1,10 ,12,2," ""Gasthof Heimathaus, Styria"".
+"
+1157 ,3,1165 ,3 ,Styria,47.2500001,15.1666665,1,14 ,1,2," ""Gasthof Heimathaus, Styria"".
+"
+1158 ,4,1017 ,4 ,Styria,47.2500001,15.1666665,1,7 ,2,2," ""Gasthof Heimathaus, Styria"".
+"
+1159 ,2,635 ,3 ,Styria,47.2500001,15.1666665,1,7 ,3,2," ""Gasthof Heimathaus, Styria"".
+"
+1160 ,3,778 ,2 ,Styria,47.2500001,15.1666665,1,7 ,2,3," ""Gasthof Pruggerhof, Styria"".
+"
+1161 ,3,738 ,2 ,Styria,47.2500001,15.1666665,1,7 ,1,3," ""Gasthof Pruggerhof, Styria"".
+"
+1162 ,4,1597 ,3 ,Styria,47.2500001,15.1666665,1,10 ,12,3," ""Gasthof Pruggerhof, Styria"".
+"
+1163 ,4,738 ,2 ,Styria,47.2500001,15.1666665,1,7 ,3,3," ""Gasthof Pruggerhof, Styria"".
+"
+1164 ,3,1797 ,4 ,Styria,47.2500001,15.1666665,1,7 ,2,3," ""Hotel Tauernhof, Styria"".
+"
+1165 ,3,1198 ,2 ,Styria,47.2500001,15.1666665,1,7 ,2,3," ""Hotel Tauernhof, Styria"".
+"
+1166 ,2,1272 ,3 ,Styria,47.2500001,15.1666665,1,7 ,3,3," ""Hotel Tauernhof, Styria"".
+"
+1167 ,4,2577 ,4 ,Styria,47.2500001,15.1666665,1,10 ,12,3," ""Hotel Tauernhof, Styria"".
+"
+1168 ,3,239 ,4 ,Styria,47.2500001,15.1666665,1,7 ,1,6," ""H.Flat Wieland, Styria"".
+"
+1169 ,3,549 ,3 ,Styria,47.2500001,15.1666665,1,7 ,2,6," ""H.Flat Wieland, Styria"".
+"
+1170 ,4,919 ,4 ,Styria,47.2500001,15.1666665,1,10 ,12,6," ""H.Flat Wieland, Styria"".
+"
+1171 ,3,385 ,4 ,Styria,47.2500001,15.1666665,1,7 ,3,6," ""H.Flat Schilcherhof, Styria"".
+"
+1172 ,4,514 ,4 ,Styria,47.2500001,15.1666665,1,7 ,2,6," ""H.Flat Schilcherhof, Styria"".
+"
+1173 ,2,244 ,3 ,Styria,47.2500001,15.1666665,1,7 ,1,6," ""H.Flat Schilcherhof, Styria"".
+"
+1174 ,3,239 ,4 ,Styria,47.2500001,15.1666665,1,14 ,1,6," ""H.Flat Peinhaupt, Styria"".
+"
+1175 ,3,889 ,4 ,Styria,47.2500001,15.1666665,1,10 ,12,6," ""H.Flat Peinhaupt, Styria"".
+"
+1176 ,4,351 ,3 ,Styria,47.2500001,15.1666665,1,7 ,3,6," ""H.Flat Peinhaupt, Styria"".
+"
+1177 ,2,351 ,4 ,Styria,47.2500001,15.1666665,1,7 ,2,6," ""H.Flat Peinhaupt, Styria"".
+"
+1178 ,3,299 ,4 ,Styria,47.2500001,15.1666665,1,7 ,1,6," ""H.Flat Berger, Styria"".
+"
+1179 ,3,359 ,4 ,Styria,47.2500001,15.1666665,1,14 ,2,6," ""H.Flat Berger, Styria"".
+"
+1180 ,4,359 ,3 ,Styria,47.2500001,15.1666665,1,7 ,3,6," ""H.Flat Berger, Styria"".
+"
+1181 ,4,2051 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,2,5," ""Hotel Feldmuellerhof, South Tyrol"".
+"
+1182 ,2,2323 ,2 ,Tyrol,47.223193,11.5261028,1,14 ,3,5," ""Hotel Feldmuellerhof, South Tyrol"".
+"
+1183 ,3,1120 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,1,5," ""Hotel Feldmuellerhof, South Tyrol"".
+"
+1184 ,3,508 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,1,3," ""Hotel Adler South Tyrol"".
+"
+1185 ,3,1247 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,12,3," ""Hotel Adler South Tyrol"".
+"
+1186 ,4,762 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,1,3," ""Hotel Adler South Tyrol"".
+"
+1187 ,3,2097 ,4 ,Tyrol,47.223193,11.5261028,1,14 ,2,3," ""Pension Schoenwald, South Tyrol"".
+"
+1188 ,2,720 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,3,3," ""Pension Schoenwald, South Tyrol"".
+"
+1189 ,3,657 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,2,2," ""Pension garni Priska, South Tyrol"".
+"
+1190 ,4,398 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,1,2," ""Pension garni Priska, South Tyrol"".
+"
+1191 ,3,694 ,4 ,Tyrol,47.223193,11.5261028,1,10 ,12,6," ""H.Flat Klausberg, South Tyrol"".
+"
+1192 ,3,514 ,3 ,Tyrol,47.223193,11.5261028,1,14 ,1,6," ""H.Flat Klausberg, South Tyrol"".
+"
+1193 ,3,684 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,2,6," ""H.Flat Klausberg, South Tyrol"".
+"
+1194 ,3,319 ,3 ,Tyrol,47.223193,11.5261028,1,7 ,2,6," ""H.Flat Jaufenthaler, South Tyrol"".
+"
+1195 ,3,499 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,3,6," ""H.Flat Jaufenthaler, South Tyrol"".
+"
+1196 ,4,499 ,5 ,Tyrol,47.223193,11.5261028,1,14 ,1,6," ""H.Flat Jaufenthaler, South Tyrol"".
+"
+1197 ,4,329 ,2 ,Tyrol,47.223193,11.5261028,1,7 ,1,6," ""H.Flat Frankbachhof, South Tyrol"".
+"
+1198 ,4,809 ,5 ,Tyrol,47.223193,11.5261028,1,7 ,2,6," ""H.Flat Frankbachhof, South Tyrol"".
+"
+1199 ,2,389 ,4 ,Tyrol,47.223193,11.5261028,1,7 ,3,6," ""H.Flat Des Alpes, South Tyrol"".
+"
+1200 ,2,1698 ,6 ,Tyrol,47.223193,11.5261028,1,14 ,2,6," ""H.Flat Des Alpes, South Tyrol"".
+"
+1201 ,3,898 ,2 ,Dolomites,46.39757005,11.9174162910989,1,7 ,1,4," ""Hotel Hofer, Dolomites"".
+"
+1202 ,3,1647 ,4 ,Dolomites,46.39757005,11.9174162910989,1,7 ,2,4," ""Hotel Hofer, Dolomites"".
+"
+1203 ,4,1372 ,3 ,Dolomites,46.39757005,11.9174162910989,1,7 ,3,4," ""Hotel Hofer, Dolomites"".
+"
+1204 ,2,2672 ,3 ,Dolomites,46.39757005,11.9174162910989,1,14 ,2,4," ""Hotel Hofer, Dolomites"".
+"
+1205 ,3,772 ,3 ,Dolomites,46.39757005,11.9174162910989,1,7 ,1,2," ""Hotel Tannenheim, Dolomites"".
+"
+1206 ,3,1478 ,2 ,Dolomites,46.39757005,11.9174162910989,1,10 ,12,2," ""Hotel Tannenheim, Dolomites"".
+"
+1207 ,4,618 ,2 ,Dolomites,46.39757005,11.9174162910989,1,7 ,3,2," ""Hotel Tannenheim, Dolomites"".
+"
+1208 ,2,1107 ,4 ,Dolomites,46.39757005,11.9174162910989,1,7 ,2,2," ""Hotel Tannenheim, Dolomites"".
+"
+1209 ,3,754 ,4 ,Dolomites,46.39757005,11.9174162910989,1,7 ,1,6," ""H.Flat Panorama, Dolomites"".
+"
+1210 ,3,754 ,2 ,Dolomites,46.39757005,11.9174162910989,1,7 ,1,6," ""H.Flat Panorama, Dolomites"".
+"
+1211 ,4,1974 ,4 ,Dolomites,46.39757005,11.9174162910989,1,10 ,12,6," ""H.Flat Panorama, Dolomites"".
+"
+1212 ,4,1214 ,3 ,Dolomites,46.39757005,11.9174162910989,1,7 ,3,6," ""H.Flat Panorama, Dolomites"".
+"
+1213 ,3,719 ,4 ,Dolomites,46.39757005,11.9174162910989,1,7 ,2,6," ""H.Flat Centro Vacanze, Dolomites"".
+"
+1214 ,3,899 ,5 ,Dolomites,46.39757005,11.9174162910989,1,7 ,1,6," ""H.Flat Centro Vacanze, Dolomites"".
+"
+1215 ,4,709 ,4 ,Dolomites,46.39757005,11.9174162910989,1,7 ,1,6," ""H.Flat Centro Vacanze, Dolomites"".
+"
+1216 ,2,1478 ,4 ,Dolomites,46.39757005,11.9174162910989,1,14 ,2,6," ""H.Flat Centro Vacanze, Dolomites"".
+"
+1217 ,3,449 ,4 ,Dolomites,46.39757005,11.9174162910989,1,7 ,3,6," ""H.Flat Parkanlage, Dolomites"".
+"
+1218 ,3,379 ,3 ,Dolomites,46.39757005,11.9174162910989,1,7 ,2,6," ""H.Flat Parkanlage, Dolomites"".
+"
+1219 ,4,379 ,2 ,Dolomites,46.39757005,11.9174162910989,1,14 ,1,6," ""H.Flat Parkanlage, Dolomites"".
+"
+1220 ,2,929 ,4 ,Dolomites,46.39757005,11.9174162910989,1,10 ,12,6," ""H.Flat Parkanlage, Dolomites"".
+"
+1221 ,0,2618 ,2 ,Egypt,26.2540493,29.2675469,2,14 ,11,4," ""Novotel, Egypt"".
+"
+1222 ,0,3065 ,3 ,Egypt,26.2540493,29.2675469,2,7 ,12,4," ""Novotel, Egypt"".
+"
+1223 ,4,3298 ,2 ,Egypt,26.2540493,29.2675469,2,14 ,1,4," ""Novotel, Egypt"".
+"
+1224 ,2,3718 ,2 ,Egypt,26.2540493,29.2675469,2,14 ,2,4," ""Novotel, Egypt"".
+"
+1225 ,0,3363 ,3 ,Egypt,26.2540493,29.2675469,2,14 ,3,3," ""Giftun Village, Egypt"".
+"
+1226 ,0,2158 ,2 ,Egypt,26.2540493,29.2675469,2,7 ,11,3," ""Giftun Village, Egypt"".
+"
+1227 ,4,2945 ,3 ,Egypt,26.2540493,29.2675469,2,14 ,12,3," ""Giftun Village, Egypt"".
+"
+1228 ,2,4552 ,4 ,Egypt,26.2540493,29.2675469,2,14 ,1,3," ""Giftun Village, Egypt"".
+"
+1229 ,0,3598 ,2 ,Egypt,26.2540493,29.2675469,2,14 ,2,4," ""Hotel Arabia Beach, Egypt"".
+"
+1230 ,0,3598 ,2 ,Egypt,26.2540493,29.2675469,2,14 ,3,4," ""Hotel Arabia Beach, Egypt"".
+"
+1231 ,4,3478 ,2 ,Egypt,26.2540493,29.2675469,2,14 ,11,4," ""Hotel Arabia Beach, Egypt"".
+"
+1232 ,2,3515 ,3 ,Egypt,26.2540493,29.2675469,2,14 ,12,4," ""Hotel Arabia Beach, Egypt"".
+"
+1233 ,0,2578 ,2 ,Egypt,26.2540493,29.2675469,2,7 ,1,3," ""Hotel Sand Beach, Egypt"".
+"
+1234 ,0,4552 ,4 ,Egypt,26.2540493,29.2675469,2,14 ,2,3," ""Hotel Sand Beach, Egypt"".
+"
+1235 ,4,2678 ,2 ,Egypt,26.2540493,29.2675469,2,14 ,3,3," ""Hotel Sand Beach, Egypt"".
+"
+1236 ,0,4658 ,2 ,Madeira,32.75175465,-16.9817465612925,2,7 ,11,4," ""Aparthotel Eden mare, Madeira"".
+"
+1237 ,0,6113 ,3 ,Madeira,32.75175465,-16.9817465612925,2,14 ,12,4," ""Aparthotel Eden mare, Madeira"".
+"
+1238 ,2,4298 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,1,4," ""Aparthotel Eden mare, Madeira"".
+"
+1239 ,4,4398 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,2,4," ""Aparthotel Eden mare, Madeira"".
+"
+1240 ,0,3498 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,3,3," ""App. Florasol, Madeira"".
+"
+1241 ,0,4956 ,4 ,Madeira,32.75175465,-16.9817465612925,2,14 ,11,3," ""App. Florasol, Madeira"".
+"
+1242 ,2,2388 ,2 ,Madeira,32.75175465,-16.9817465612925,2,7 ,12,3," ""App. Florasol, Madeira"".
+"
+1243 ,2,4157 ,3 ,Madeira,32.75175465,-16.9817465612925,2,14 ,1,3," ""App. Florasol, Madeira"".
+"
+1244 ,0,3598 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,2,3," ""Hotel Do Carmo, Madeira"".
+"
+1245 ,0,4367 ,3 ,Madeira,32.75175465,-16.9817465612925,2,14 ,3,3," ""Hotel Do Carmo, Madeira"".
+"
+1246 ,2,4022 ,3 ,Madeira,32.75175465,-16.9817465612925,2,14 ,11,3," ""Hotel Do Carmo, Madeira"".
+"
+1247 ,4,5576 ,4 ,Madeira,32.75175465,-16.9817465612925,2,14 ,12,3," ""Hotel Do Carmo, Madeira"".
+"
+1248 ,0,3438 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,1,3," ""Hotel Mimosa, Madeira"".
+"
+1249 ,0,3578 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,2,3," ""Hotel Mimosa, Madeira"".
+"
+1250 ,2,4847 ,3 ,Madeira,32.75175465,-16.9817465612925,2,14 ,3,3," ""Hotel Mimosa, Madeira"".
+"
+1251 ,2,3578 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,11,3," ""Hotel Mimosa, Madeira"".
+"
+1252 ,0,2498 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,12,2," ""Anlage Canico, Madeira"".
+"
+1253 ,0,2769 ,3 ,Madeira,32.75175465,-16.9817465612925,2,7 ,1,2," ""Anlage Canico, Madeira"".
+"
+1254 ,2,3765 ,3 ,Madeira,32.75175465,-16.9817465612925,2,14 ,2,2," ""Anlage Canico, Madeira"".
+"
+1255 ,4,3278 ,2 ,Madeira,32.75175465,-16.9817465612925,2,14 ,3,2," ""Anlage Canico, Madeira"".
+"
+1256 ,0,2527 ,3 ,Cyprus,34.9823018,33.1451285,2,7 ,11,3," ""Hotel Paphian Bay, Cyprus"".
+"
+1257 ,0,2338 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,12,3," ""Hotel Paphian Bay, Cyprus"".
+"
+1258 ,4,2527 ,3 ,Cyprus,34.9823018,33.1451285,2,14 ,1,3," ""Hotel Paphian Bay, Cyprus"".
+"
+1259 ,2,2907 ,4 ,Cyprus,34.9823018,33.1451285,2,14 ,2,3," ""Hotel Paphian Bay, Cyprus"".
+"
+1260 ,0,3018 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,3,3," ""App. Aliathon Village, Cyprus"".
+"
+1261 ,2,2498 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,1,3," ""App. Aliathon Village, Cyprus"".
+"
+1262 ,0,2613 ,3 ,Cyprus,34.9823018,33.1451285,2,14 ,11,3," ""App. Aliathon Village, Cyprus"".
+"
+1263 ,0,2138 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,12,3," ""Hotel Karpasiana, Cyprus"".
+"
+1264 ,0,2493 ,3 ,Cyprus,34.9823018,33.1451285,2,7 ,3,3," ""Hotel Karpasiana, Cyprus"".
+"
+1265 ,4,2138 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,1,3," ""Hotel Karpasiana, Cyprus"".
+"
+1266 ,2,2138 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,2,3," ""Hotel Karpasiana, Cyprus"".
+"
+1267 ,0,3077 ,4 ,Cyprus,34.9823018,33.1451285,2,14 ,11,3," ""Hotel Napia Star, Cyprus"".
+"
+1268 ,0,2418 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,12,3," ""Hotel Napia Star, Cyprus"".
+"
+1269 ,4,2418 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,1,3," ""Hotel Napia Star, Cyprus"".
+"
+1270 ,2,2659 ,3 ,Cyprus,34.9823018,33.1451285,2,14 ,2,3," ""Hotel Napia Star, Cyprus"".
+"
+1271 ,0,2439 ,3 ,Cyprus,34.9823018,33.1451285,2,7 ,3,4," ""Hotel Sandy Beach, Cyprus"".
+"
+1272 ,0,2958 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,11,4," ""Hotel Sandy Beach, Cyprus"".
+"
+1273 ,4,2578 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,12,4," ""Hotel Sandy Beach, Cyprus"".
+"
+1274 ,2,2578 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,1,4," ""Hotel Sandy Beach, Cyprus"".
+"
+1275 ,0,2879 ,3 ,Cyprus,34.9823018,33.1451285,2,14 ,3,4," ""Hotel Odessa, Cyprus"".
+"
+1276 ,0,2558 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,11,4," ""Hotel Odessa, Cyprus"".
+"
+1277 ,4,2278 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,2,4," ""Hotel Odessa, Cyprus"".
+"
+1278 ,2,2349 ,3 ,Cyprus,34.9823018,33.1451285,2,14 ,1,2," ""App. Basilica, Cyprus"".
+"
+1279 ,0,2738 ,2 ,Cyprus,34.9823018,33.1451285,2,14 ,11,2," ""App. Basilica, Cyprus"".
+"
+1280 ,4,1917 ,3 ,Cyprus,34.9823018,33.1451285,2,7 ,12,2," ""App. Basilica, Cyprus"".
+"
+1281 ,0,1570 ,3 ,Malta,27.5015719,85.2451666,2,7 ,11,4," ""Hotel Preluna, Malta"".
+"
+1282 ,2,1998 ,2 ,Malta,27.5015719,85.2451666,2,14 ,12,4," ""Hotel Preluna, Malta"".
+"
+1283 ,2,2318 ,2 ,Malta,27.5015719,85.2451666,2,14 ,1,4," ""Hotel Preluna, Malta"".
+"
+1284 ,4,2329 ,3 ,Malta,27.5015719,85.2451666,2,14 ,2,4," ""Hotel Preluna, Malta"".
+"
+1285 ,0,1478 ,2 ,Malta,27.5015719,85.2451666,2,14 ,11,3," ""Hotel Patricia, Malta"".
+"
+1286 ,2,2600 ,4 ,Malta,27.5015719,85.2451666,2,14 ,3,3," ""Hotel Patricia, Malta"".
+"
+1287 ,2,1618 ,2 ,Malta,27.5015719,85.2451666,2,14 ,12,3," ""Hotel Patricia, Malta"".
+"
+1288 ,4,1258 ,2 ,Malta,27.5015719,85.2451666,2,7 ,1,3," ""Hotel Patricia, Malta"".
+"
+1289 ,0,2519 ,3 ,Malta,27.5015719,85.2451666,2,14 ,11,3," ""Hotel Galaxy, Malta"".
+"
+1290 ,2,2038 ,2 ,Malta,27.5015719,85.2451666,2,14 ,2,3," ""Hotel Galaxy, Malta"".
+"
+1291 ,4,2238 ,2 ,Malta,27.5015719,85.2451666,2,14 ,12,3," ""Hotel Galaxy, Malta"".
+"
+1292 ,2,2519 ,3 ,Malta,27.5015719,85.2451666,2,14 ,1,3," ""Hotel Galaxy, Malta"".
+"
+1293 ,0,1978 ,2 ,Malta,27.5015719,85.2451666,2,14 ,11,4," ""App. Sunny Coast, Malta"".
+"
+1294 ,2,1922 ,3 ,Malta,27.5015719,85.2451666,2,14 ,12,4," ""App. Sunny Coast, Malta"".
+"
+1295 ,4,1428 ,2 ,Malta,27.5015719,85.2451666,2,7 ,3,4," ""App. Sunny Coast, Malta"".
+"
+1296 ,0,2758 ,2 ,Morocco,31.1728192,-7.3366042,2,14 ,11,3," ""Club Tamlelt, Morocco"".
+"
+1297 ,0,3654 ,3 ,Morocco,31.1728192,-7.3366042,2,14 ,11,3," ""Club Tamlelt, Morocco"".
+"
+1298 ,2,4502 ,3 ,Morocco,31.1728192,-7.3366042,2,14 ,12,3," ""Club Tamlelt, Morocco"".
+"
+1299 ,4,2268 ,2 ,Morocco,31.1728192,-7.3366042,2,7 ,1,3," ""Club Tamlelt, Morocco"".
+"
+1300 ,0,3309 ,3 ,Morocco,31.1728192,-7.3366042,2,14 ,11,3," ""Hotel Sangho, Morocco"".
+"
+1301 ,2,3138 ,2 ,Morocco,31.1728192,-7.3366042,2,14 ,2,3," ""Hotel Sangho, Morocco"".
+"
+1302 ,2,4422 ,3 ,Morocco,31.1728192,-7.3366042,2,14 ,3,3," ""Hotel Sangho, Morocco"".
+"
+1303 ,4,4079 ,4 ,Morocco,31.1728192,-7.3366042,2,14 ,4,3," ""Hotel Sangho, Morocco"".
+"
+1304 ,0,1918 ,2 ,Morocco,31.1728192,-7.3366042,2,7 ,11,3," ""Hotel Kamal, Morocco"".
+"
+1305 ,0,3237 ,3 ,Morocco,31.1728192,-7.3366042,2,14 ,11,3," ""Hotel Kamal, Morocco"".
+"
+1306 ,2,2438 ,2 ,Morocco,31.1728192,-7.3366042,2,14 ,1,3," ""Hotel Kamal, Morocco"".
+"
+1307 ,4,3615 ,3 ,Morocco,31.1728192,-7.3366042,2,14 ,12,3," ""Hotel Kamal, Morocco"".
+"
+1308 ,0,2642 ,3 ,Morocco,31.1728192,-7.3366042,2,14 ,11,3," ""Hotel Aladin, Morocco"".
+"
+1309 ,4,2518 ,2 ,Morocco,31.1728192,-7.3366042,2,14 ,2,3," ""Hotel Aladin, Morocco"".
+"
+1310 ,2,3507 ,3 ,Morocco,31.1728192,-7.3366042,2,14 ,3,3," ""Hotel Aladin, Morocco"".
+"
+1311 ,2,3687 ,4 ,Morocco,31.1728192,-7.3366042,2,14 ,4,3," ""Hotel Aladin, Morocco"".
+"
+1312 ,0,2778 ,2 ,Morocco,31.1728192,-7.3366042,2,14 ,11,3," ""Hotel Ali Baba, Morocco"".
+"
+1313 ,0,3680 ,3 ,Morocco,31.1728192,-7.3366042,2,14 ,11,3," ""Hotel Ali Baba, Morocco"".
+"
+1314 ,4,4237 ,3 ,Morocco,31.1728192,-7.3366042,2,7 ,12,3," ""Hotel Ali Baba, Morocco"".
+"
+1315 ,2,2938 ,2 ,Morocco,31.1728192,-7.3366042,2,14 ,1,3," ""Hotel Ali Baba, Morocco"".
+"
+1316 ,0,3033 ,3 ,GranCanaria,28.0472601,-15.4239184,2,14 ,11,3," ""App. Taboga, Gran Canaria"".
+"
+1317 ,0,2758 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,12,3," ""App. Taboga, Gran Canaria"".
+"
+1318 ,4,2638 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,1,3," ""App. Taboga, Gran Canaria"".
+"
+1319 ,0,2440 ,4 ,GranCanaria,28.0472601,-15.4239184,2,7 ,2,3," ""Bung. Dona Rosa, Gran Canaria"".
+"
+1320 ,0,2770 ,3 ,GranCanaria,28.0472601,-15.4239184,2,14 ,3,3," ""Bung. Dona Rosa, Gran Canaria"".
+"
+1321 ,2,2778 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,4,3," ""Bung. Dona Rosa, Gran Canaria"".
+"
+1322 ,0,2949 ,3 ,GranCanaria,28.0472601,-15.4239184,2,14 ,1,2," ""App. El Cisne, Gran Canaria"".
+"
+1323 ,4,2558 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,2,2," ""App. El Cisne, Gran Canaria"".
+"
+1324 ,2,2541 ,3 ,GranCanaria,28.0472601,-15.4239184,2,14 ,11,2," ""App. El Cisne, Gran Canaria"".
+"
+1325 ,0,4077 ,4 ,GranCanaria,28.0472601,-15.4239184,2,7 ,12,2," ""App. Las Dunas, Gran Canaria"".
+"
+1326 ,0,2758 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,3,2," ""App. Las Dunas, Gran Canaria"".
+"
+1327 ,2,2658 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,4,2," ""App. Las Dunas, Gran Canaria"".
+"
+1328 ,0,3495 ,3 ,GranCanaria,28.0472601,-15.4239184,2,14 ,11,4," ""Hotel Las Margaritas, Gran Canaria"".
+"
+1329 ,4,3338 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,12,4," ""Hotel Las Margaritas, Gran Canaria"".
+"
+1330 ,2,3495 ,3 ,GranCanaria,28.0472601,-15.4239184,2,14 ,1,4," ""Hotel Las Margaritas, Gran Canaria"".
+"
+1331 ,0,4245 ,3 ,GranCanaria,28.0472601,-15.4239184,2,14 ,2,3," ""Bung. Green Golf, Gran Canaria"".
+"
+1332 ,0,3538 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,3,3," ""Bung. Green Golf, Gran Canaria"".
+"
+1333 ,4,2781 ,3 ,GranCanaria,28.0472601,-15.4239184,2,7 ,4,3," ""Bung. Green Golf, Gran Canaria"".
+"
+1334 ,0,2978 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,11,3," ""App. Koala Garden, Gran Canaria"".
+"
+1335 ,0,3717 ,3 ,GranCanaria,28.0472601,-15.4239184,2,14 ,12,3," ""App. Koala Garden, Gran Canaria"".
+"
+1336 ,4,4169 ,4 ,GranCanaria,28.0472601,-15.4239184,2,14 ,1,3," ""App. Koala Garden, Gran Canaria"".
+"
+1337 ,2,3158 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,2,3," ""App. Koala Garden, Gran Canaria"".
+"
+1338 ,0,3696 ,3 ,GranCanaria,28.0472601,-15.4239184,2,14 ,3,2," ""Studio Puerto Plata, Gran Canaria"".
+"
+1339 ,4,2618 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,4,2," ""Studio Puerto Plata, Gran Canaria"".
+"
+1340 ,2,2618 ,2 ,GranCanaria,28.0472601,-15.4239184,2,14 ,11,2," ""Studio Puerto Plata, Gran Canaria"".
+"
+1341 ,0,5208 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,11,4," ""Hotel Duna Park, Fuerteventura"".
+"
+1342 ,0,4398 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,12,4," ""Hotel Duna Park, Fuerteventura"".
+"
+1343 ,4,3858 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,1,4," ""Hotel Duna Park, Fuerteventura"".
+"
+1344 ,2,5937 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,2,4," ""Hotel Duna Park, Fuerteventura"".
+"
+1345 ,0,3947 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,7 ,11,3," ""App. Las Agujas, Fuerteventura"".
+"
+1346 ,0,3298 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,12,3," ""App. Las Agujas, Fuerteventura"".
+"
+1347 ,4,3298 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,3,3," ""App. Las Agujas, Fuerteventura"".
+"
+1348 ,2,4737 ,4 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,4,3," ""App. Las Agujas, Fuerteventura"".
+"
+1349 ,0,4585 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,11,3," ""Hotel Taro Beach, Fuerteventura"".
+"
+1350 ,0,2788 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,7 ,12,3," ""Hotel Taro Beach, Fuerteventura"".
+"
+1351 ,4,4835 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,1,3," ""Hotel Taro Beach, Fuerteventura"".
+"
+1352 ,4,4048 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,2,3," ""Hotel Taro Beach, Fuerteventura"".
+"
+1353 ,0,3513 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,11,3," ""App. Rio Tropical, Fuerteventura"".
+"
+1354 ,0,4099 ,4 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,11,3," ""App. Rio Tropical, Fuerteventura"".
+"
+1355 ,4,2238 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,7 ,3,3," ""App. Rio Tropical, Fuerteventura"".
+"
+1356 ,2,2828 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,4,3," ""App. Rio Tropical, Fuerteventura"".
+"
+1357 ,0,4303 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,11,3," ""Hotel Crystal Beach, Fuerteventura"".
+"
+1358 ,0,3488 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,12,3," ""Hotel Crystal Beach, Fuerteventura"".
+"
+1359 ,4,4708 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,2,3," ""Hotel Crystal Beach, Fuerteventura"".
+"
+1360 ,2,4708 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,3,3," ""Hotel Crystal Beach, Fuerteventura"".
+"
+1361 ,0,2228 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,1,3," ""Bung. Solymae, Fuerteventura"".
+"
+1362 ,0,2601 ,3 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,11,3," ""Bung. Solymae, Fuerteventura"".
+"
+1363 ,0,3231 ,4 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,12,3," ""Bung. Solymae, Fuerteventura"".
+"
+1364 ,4,1898 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,7 ,2,3," ""Bung. Solymae, Fuerteventura"".
+"
+1365 ,2,2308 ,2 ,Fuerteventura,28.40037685,-14.0048696135422,2,14 ,3,3," ""Bung. Solymae, Fuerteventura"".
+"
+1366 ,0,1868 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,7 ,11,2," ""App. Lanzarote Beach, Lanzarote"".
+"
+1367 ,0,2688 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,12,2," ""App. Lanzarote Beach, Lanzarote"".
+"
+1368 ,4,2298 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,1,2," ""App. Lanzarote Beach, Lanzarote"".
+"
+1369 ,2,2688 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,2,2," ""App. Lanzarote Beach, Lanzarote"".
+"
+1370 ,0,3298 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,3,3," ""Hotel Costa Salinas, Lanzarote"".
+"
+1371 ,0,4947 ,4 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,4,3," ""Hotel Costa Salinas, Lanzarote"".
+"
+1372 ,4,2268 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,7 ,11,3," ""Hotel Costa Salinas, Lanzarote"".
+"
+1373 ,2,3298 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,12,3," ""Hotel Costa Salinas, Lanzarote"".
+"
+1374 ,0,5716 ,4 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,1,2," ""App. Los Rosales, Lanzarote"".
+"
+1375 ,0,3158 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,2,2," ""App. Los Rosales, Lanzarote"".
+"
+1376 ,4,4317 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,3,2," ""App. Los Rosales, Lanzarote"".
+"
+1377 ,2,2318 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,7 ,4,2," ""App. Los Rosales, Lanzarote"".
+"
+1378 ,0,3438 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,11,4," ""Hotel SOL Lanzarote, Lanzarote"".
+"
+1379 ,0,4872 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,12,4," ""Hotel SOL Lanzarote, Lanzarote"".
+"
+1380 ,4,3638 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,1,4," ""Hotel SOL Lanzarote, Lanzarote"".
+"
+1381 ,2,4872 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,2,4," ""Hotel SOL Lanzarote, Lanzarote"".
+"
+1382 ,0,3657 ,4 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,3,2," ""App. Los Lajones, Lanzarote"".
+"
+1383 ,0,2438 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,4,2," ""App. Los Lajones, Lanzarote"".
+"
+1384 ,4,2308 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,7 ,11,2," ""App. Los Lajones, Lanzarote"".
+"
+1385 ,2,3047 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,12,2," ""App. Los Lajones, Lanzarote"".
+"
+1386 ,0,3188 ,2 ,Teneriffe,-27.455924,153.0464425,2,14 ,11,3," ""Hotel SOL Teneriffe, Teneriffe"".
+"
+1387 ,0,4356 ,3 ,Teneriffe,-27.455924,153.0464425,2,14 ,12,3," ""Hotel SOL Teneriffe, Teneriffe"".
+"
+1388 ,4,2308 ,2 ,Teneriffe,-27.455924,153.0464425,2,7 ,1,3," ""Hotel SOL Teneriffe, Teneriffe"".
+"
+1389 ,2,5854 ,4 ,Teneriffe,-27.455924,153.0464425,2,14 ,2,3," ""Hotel SOL Teneriffe, Teneriffe"".
+"
+1390 ,0,4535 ,3 ,Teneriffe,-27.455924,153.0464425,2,14 ,3,3," ""App. Lagos de Fanabe, Teneriffe"".
+"
+1391 ,0,4120 ,4 ,Teneriffe,-27.455924,153.0464425,2,14 ,4,3," ""App. Lagos de Fanabe, Teneriffe"".
+"
+1392 ,2,3368 ,2 ,Teneriffe,-27.455924,153.0464425,2,14 ,11,3," ""App. Lagos de Fanabe, Teneriffe"".
+"
+1393 ,4,3468 ,2 ,Teneriffe,-27.455924,153.0464425,2,14 ,12,3," ""App. Lagos de Fanabe, Teneriffe"".
+"
+1394 ,0,2138 ,2 ,Teneriffe,-27.455924,153.0464425,2,7 ,1,3," ""Hotel Paraiso Floral, Teneriffe"".
+"
+1395 ,0,3482 ,3 ,Teneriffe,-27.455924,153.0464425,2,14 ,2,3," ""Hotel Paraiso Floral, Teneriffe"".
+"
+1396 ,2,3482 ,3 ,Teneriffe,-27.455924,153.0464425,2,14 ,3,3," ""Hotel Paraiso Floral, Teneriffe"".
+"
+1397 ,4,3624 ,4 ,Teneriffe,-27.455924,153.0464425,2,14 ,4,3," ""Hotel Paraiso Floral, Teneriffe"".
+"
+1398 ,0,3098 ,2 ,Teneriffe,-27.455924,153.0464425,2,14 ,11,4," ""Hotel Esmeralda Playa, Teneriffe"".
+"
+1399 ,0,2805 ,3 ,Teneriffe,-27.455924,153.0464425,2,7 ,12,4," ""Hotel Esmeralda Playa, Teneriffe"".
+"
+1400 ,4,3098 ,2 ,Teneriffe,-27.455924,153.0464425,2,14 ,1,4," ""Hotel Esmeralda Playa, Teneriffe"".
+"
+1401 ,2,3578 ,2 ,Teneriffe,-27.455924,153.0464425,2,14 ,2,4," ""Hotel Esmeralda Playa, Teneriffe"".
+"
+1402 ,0,2922 ,3 ,Teneriffe,-27.455924,153.0464425,2,14 ,3,2," ""Studio Malibu Park, Teneriffe"".
+"
+1403 ,0,3297 ,4 ,Teneriffe,-27.455924,153.0464425,2,14 ,4,2," ""Studio Malibu Park, Teneriffe"".
+"
+1404 ,4,1758 ,2 ,Teneriffe,-27.455924,153.0464425,2,7 ,11,2," ""Studio Malibu Park, Teneriffe"".
+"
+1405 ,2,2108 ,2 ,Teneriffe,-27.455924,153.0464425,2,14 ,12,2," ""Studio Malibu Park, Teneriffe"".
+"
+1406 ,0,3548 ,2 ,Teneriffe,-27.455924,153.0464425,2,14 ,1,4," ""Hotel Conquistador, Teneriffe"".
+"
+1407 ,2,4977 ,3 ,Teneriffe,-27.455924,153.0464425,2,14 ,2,4," ""Hotel Conquistador, Teneriffe"".
+"
+1408 ,0,4182 ,4 ,Teneriffe,-27.455924,153.0464425,2,14 ,3,3," ""Anlage El Chaparral, Teneriffe"".
+"
+1409 ,0,2664 ,3 ,Teneriffe,-27.455924,153.0464425,2,7 ,4,3," ""Anlage El Chaparral, Teneriffe"".
+"
+1410 ,4,2698 ,2 ,Teneriffe,-27.455924,153.0464425,2,14 ,11,3," ""Anlage El Chaparral, Teneriffe"".
+"
+1411 ,0,2628 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,11,3," ""Studio Hyde Park, Lanzarote"".
+"
+1412 ,0,3510 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,12,3," ""Studio Hyde Park, Lanzarote"".
+"
+1413 ,4,3460 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,1,3," ""Studio Hyde Park, Lanzarote"".
+"
+1414 ,2,2108 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,7 ,2,3," ""Studio Hyde Park, Lanzarote"".
+"
+1415 ,0,3597 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,3,3," ""Hotel Puerto Carmen, Lanzarote"".
+"
+1416 ,0,2788 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,4,3," ""Hotel Puerto Carmen, Lanzarote"".
+"
+1417 ,4,2788 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,11,3," ""Hotel Puerto Carmen, Lanzarote"".
+"
+1418 ,2,3597 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,12,3," ""Hotel Puerto Carmen, Lanzarote"".
+"
+1419 ,0,6132 ,4 ,Lanzarote,29.0396471,-13.6362983991609,2,7 ,1,4," ""Hotel La Geria, Lanzarote"".
+"
+1420 ,0,4288 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,2,4," ""Hotel La Geria, Lanzarote"".
+"
+1421 ,4,4088 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,1,4," ""Hotel La Geria, Lanzarote"".
+"
+1422 ,2,5360 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,3,4," ""Hotel La Geria, Lanzarote"".
+"
+1423 ,0,3627 ,4 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,4,2," ""Bung. Playa Roca, Lanzarote"".
+"
+1424 ,0,2558 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,11,2," ""Bung. Playa Roca, Lanzarote"".
+"
+1425 ,4,6045 ,5 ,Lanzarote,29.0396471,-13.6362983991609,2,7 ,12,2," ""Bung. Playa Roca, Lanzarote"".
+"
+1426 ,4,3102 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,1,2," ""Bung. Playa Roca, Lanzarote"".
+"
+1427 ,0,3328 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,2,3," ""Hotel Lanzarote Gardens, Lanzarote"".
+"
+1428 ,0,3827 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,3,3," ""Hotel Lanzarote Gardens, Lanzarote"".
+"
+1429 ,4,2988 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,4,3," ""Hotel Lanzarote Gardens, Lanzarote"".
+"
+1430 ,2,3436 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,11,3," ""Hotel Lanzarote Gardens, Lanzarote"".
+"
+1431 ,0,3658 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,12,4," ""Hotel Lanzarote Princess, Lanzarote"".
+"
+1432 ,4,4247 ,3 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,1,4," ""Hotel Lanzarote Princess, Lanzarote"".
+"
+1433 ,2,3658 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,2,4," ""Hotel Lanzarote Princess, Lanzarote"".
+"
+1434 ,0,2688 ,4 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,3,4," ""Bung. Atlantic Gardens, Lanzarote"".
+"
+1435 ,4,2548 ,2 ,Lanzarote,29.0396471,-13.6362983991609,2,14 ,4,4," ""Bung. Atlantic Gardens, Lanzarote"".
+"
+1451 ,0,1498 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,11,3," ""Hotel Aqua Viva, Tunisia"".
+"
+1452 ,4,1607 ,3 ,Tunisia,33.8439408,9.400138,2,7 ,12,3," ""Hotel Aqua Viva, Tunisia"".
+"
+1453 ,2,1607 ,3 ,Tunisia,33.8439408,9.400138,2,14 ,1,3," ""Hotel Aqua Viva, Tunisia"".
+"
+1454 ,2,1895 ,4 ,Tunisia,33.8439408,9.400138,2,7 ,2,3," ""Hotel Aqua Viva, Tunisia"".
+"
+1455 ,0,1518 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,11,2," ""Hotel Amilcar, Tunisia"".
+"
+1456 ,4,1658 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,3,2," ""Hotel Amilcar, Tunisia"".
+"
+1457 ,2,1745 ,3 ,Tunisia,33.8439408,9.400138,2,7 ,11,2," ""Hotel Amilcar, Tunisia"".
+"
+1458 ,4,1518 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,12,2," ""Hotel Amilcar, Tunisia"".
+"
+1459 ,0,2118 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,11,4," ""Club Calimera, Tunisia"".
+"
+1460 ,4,2078 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,1,4," ""Club Calimera, Tunisia"".
+"
+1461 ,4,3297 ,3 ,Tunisia,33.8439408,9.400138,2,21 ,2,4," ""Club Calimera, Tunisia"".
+"
+1462 ,4,3957 ,4 ,Tunisia,33.8439408,9.400138,2,14 ,3,4," ""Club Calimera, Tunisia"".
+"
+1463 ,0,2373 ,3 ,Tunisia,33.8439408,9.400138,2,7 ,11,3," ""Hotel Quatre Saisons, Tunisia"".
+"
+1464 ,4,2346 ,4 ,Tunisia,33.8439408,9.400138,2,14 ,11,3," ""Hotel Quatre Saisons, Tunisia"".
+"
+1465 ,2,1878 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,12,3," ""Hotel Quatre Saisons, Tunisia"".
+"
+1466 ,2,1765 ,3 ,Tunisia,33.8439408,9.400138,2,7 ,1,3," ""Hotel Quatre Saisons, Tunisia"".
+"
+1467 ,0,1438 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,11,2," ""Hotel El Ksar, Tunisia"".
+"
+1468 ,4,1905 ,3 ,Tunisia,33.8439408,9.400138,2,14 ,2,2," ""Hotel El Ksar, Tunisia"".
+"
+1469 ,2,1438 ,2 ,Tunisia,33.8439408,9.400138,2,7 ,3,2," ""Hotel El Ksar, Tunisia"".
+"
+1470 ,2,1438 ,2 ,Tunisia,33.8439408,9.400138,2,14 ,11,2," ""Hotel El Ksar, Tunisia"".
+"
+1466 ,2,1765 ,3 ,Tunisia,33.8439408,9.400138,2,7 ,1,3," ""Hotel Quatre Saisons, Tunisia"".
+"
+1466 ,2,1765 ,3 ,Tunisia,33.8439408,9.400138,2,7 ,1,3," ""Hotel Quatre Saisons, Tunisia"".
+"
